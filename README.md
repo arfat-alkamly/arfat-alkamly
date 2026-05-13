@@ -1,52 +1,85 @@
-
-# <p align="center">🛡️ Arafat Al-Kamly | Cybersecurity Expert & Full-Stack Developer</p>
+# <p align="center">🛡️ Arafat Al-Kamly | Cybersecurity Engineering </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Cyber%20Security%20Student&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Building%20Secure%20Future&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-## 🎓 المسار الأكاديمي والمهني
-أنا **عرفات الكاملي**، طالب في السنة الثالثة بكليه **المنار**، متخصص في هندسة **الأمن السيبراني والشبكات**. أجمع بين الدراسة الأكاديمية العميقة والخبرة العملية في إدارة المشاريع التقنية. أهتم بتحليل الثغرات البرمجية، وتأمين الشبكات، وبناء الأنظمة البرمجية القوية التي تجمع بين الكفاءة والأمان.
-
----
-
-## 🚀 الترسانة التقنية (Technical Stack)
-
-### 🛡️ الأمن السيبراني والشبكات (Cybersecurity & Networking)
-- **اختبار الاختراق:** استخدام أدوات **Kali Linux** المتقدمة مثل Nmap و Metasploit.
-- **البيئات الافتراضية:** بناء مختبرات أمان متكاملة باستخدام **VMware Workstation**.
-- **الحماية:** التعامل مع جدران الحماية (Firewalls) وتجاوز أنظمة IPS/IDS.
-- **الأنظمة:** إدارة وتأمين أنظمة **Linux** و Windows Server.
-
-### 💻 تطوير الويب والبرمجة (Web Development)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📂 أهم المشاريع (Major Projects)
-1. **البروفايل المهني (Portfolio Site):** موقع متكامل يعرض أعمالي ومهاراتي، منشور عبر GitHub Pages.
-2. **موقع السياحة (Tourism Platform):** مشروع لتطوير المواقع التفاعلية باستخدام لغات الويب الحديثة.
-3. **مختبر الاختراق الافتراضي:** إعداد مختبر آمن لاختبار الثغرات والتدرب على الهجمات السيبرانية.
-
----
-
-## 📊 إحصائيات الأداء (GitHub Metrics)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=tokyonight&count_private=true" alt="إحصائيات عرفات" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=tokyonight" alt="اللغات المستخدمة" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Ethical+Hacker+In+Training;Full-Stack+Developer;Network+Security+Specialist" />
+</p>
+
+## 🚀 نبذة عني (About Me)
+<p align="right">
+أهلاً بك! أنا **عرفات الكاملي**، طالب في السنة الثالثة تخصص **الأمن السيبراني والشبكات**. أمتلك شغفاً عميقاً بدمج القوة البرمجية مع الحماية الأمنية. أعمل حالياً على تطوير مهاراتي في اختبار الاختراق المتقدم وتأمين البنى التحتية الرقمية، مع خبرة عملية في إدارة الأعمال التقنية والحلول الرقمية.
 </p>
 
 ---
 
-## 🔗 تواصل معي
+## 🛠 الترسانة التقنية (Technical Arsenal)
+
+### 💻 لغات البرمجة (Programming Languages)
 <p align="left">
-<a href="https://github.com/arfat-alkamly" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8A00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🗄️ قواعد البيانات (Databases)
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### 🛡️ الأمن السيبراني والشبكات (Cybersecurity & Networks)
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
+
+### 🔧 أدوات التطوير (Dev Tools)
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📂 المشاريع الاستراتيجية (Major Projects)
+*   **نظام إدارة الطلاب (Java):** مشروع متكامل يعتمد على البرمجة الكائنية (OOP).
+*   **منصة سياحية متكاملة:** مشروع ويب احترافي تم نشره وتطويره بالكامل.
+*   **محفظة الأمن السيبراني:** مستودع مخصص لأبحاث وأدوات الشبكات وحلول الثغرات.
+*   **بيئة Kali المخصصة:** تطوير وتكوين بيئة عمل للاختراق الأخلاقي على VMware.
+
+---
+
+## 📊 إحصائيات الأداء (GitHub Statistics)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=radical&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 💬 تواصل معي (Contact Me)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arfat-alkamly-399676409" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/arfat-alkamly" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/rfatalkamly" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dark.hacker_x" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@dark.hacker_x" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product,%20it%20is%20a%20process." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Information%20is%20the%20oxygen%20of%20the%20modern%20age." />
 </p>
