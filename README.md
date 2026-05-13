@@ -1,7 +1,4 @@
-# <p a
-
-
-# <p align="center">🛡️ Arafat Al-Kamly | Cybersecurity Engineering </p>
+# <p align="center">🛡️ Arafat Al-Kamly |Cybersecurity Engineering </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&color=00b4d8&height=150&section=header&text=Building%20Secure%20Future&fontSize=60&animation=fadeIn" />
@@ -41,9 +38,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
