@@ -9,9 +9,7 @@
 </p>
 
 ## 🚀 نبذة عني (About Me)
-<p align="right">
-أهلاً بك! أنا **عرفات الكاملي**، طالب في السنة الثالثة تخصص **الأمن السيبراني والشبكات**. أمتلك شغفاً عميقاً بدمج القوة البرمجية مع الحماية الأمنية. أعمل حالياً على تطوير مهاراتي في اختبار الاختراق المتقدم وتأمين البنى التحتية الرقمية، مع خبرة عملية في إدارة الأعمال التقنية والحلول الرقمية.
-</p>
+أنا **عرفات الكاملي**، طالب في السنة الثالثة تخصص **الأمن السيبراني والشبكات**. أجمع بين القوة البرمجية والحماية الأمنية، وأعمل على تطوير مهاراتي في اختبار الاختراق وتأمين البنى التحتية الرقمية.
 
 ---
 
@@ -26,47 +24,23 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🗄️ قواعد البيانات (Databases)
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### 🛡️ الأمن السيبراني والشبكات (Cybersecurity & Networks)
+### 🛡️ الأمن السيبراني والشبكات (Cybersecurity)
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4E9A06?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-### 🔧 أدوات التطوير (Dev Tools)
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 📂 المشاريع الاستراتيجية (Major Projects)
-*   **نظام إدارة الطلاب (Java):** مشروع متكامل يعتمد على البرمجة الكائنية (OOP).
-*   **منصة سياحية متكاملة:** مشروع ويب احترافي تم نشره وتطويره بالكامل.
-*   **محفظة الأمن السيبراني:** مستودع مخصص لأبحاث وأدوات الشبكات وحلول الثغرات.
-*   **بيئة Kali المخصصة:** تطوير وتكوين بيئة عمل للاختراق الأخلاقي على VMware.
 
 ---
 
 ## 📊 إحصائيات الأداء (GitHub Statistics)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=radical&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=radical&count_private=true" alt="إحصائيات عرفات" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=radical" alt="اللغات الأكثر استخداماً" />
 </p>
 
 ---
@@ -80,6 +54,3 @@
   <a href="https://www.tiktok.com/@dark.hacker_x" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Information%20is%20the%20oxygen%20of%20the%20modern%20age." />
-</p>
