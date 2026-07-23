@@ -2,25 +2,41 @@
 
 <h3 align="center">
 🔐 Cybersecurity Student • Network Security Enthusiast • Future Security Engineer
-</h3><p align="center">
+</h3>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00B4D8,100:001F3F&height=220&section=header&text=Cybersecurity%20Engineer%20in%20Progress&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p><p align="center">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Network+Security+Specialist;Future+Security+Engineer;Penetration+Testing+Learner;Secure+Software+Developer;Building+A+Safer+Digital+Future;AI+%26+ML+Security+Enthusiast;Cloud+%26+DevSecOps+Advocate" />
-</p><p align="center">
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=arfat-alkamly&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge"/>
-</p>---
-
-🛡️ Professional Profile
-
-Cybersecurity student passionate about network security, ethical hacking, secure software development, and vulnerability assessment.
-
-Currently expanding expertise in penetration testing, Linux systems, web application security, and security operations while building practical projects and continuously improving technical capabilities.
-
-My goal is to become a Security Engineer capable of protecting modern infrastructures, identifying vulnerabilities, and developing secure digital solutions.
+</p>
 
 ---
 
-🎯 Current Mission
+### 🛡️ Professional Profile
+
+أنا طالب في مجال الأمن السيبراني، شغوف بأمن الشبكات، والاختراق الأخلاقي، وتطوير البرمجيات الآمنة، وتقييم الثغرات.
+
+أسعى باستمرار لتوسيع خبراتي في اختبار الاختراق، وأنظمة لينكس، وأمن تطبيقات الويب، وعمليات الأمن السيبراني، من خلال بناء مشاريع عملية وتطوير قدراتي التقنية بشكل مستمر.
+
+هدفي هو أن أصبح مهندس أمن سيبراني قادراً على حماية البنى التحتية الحديثة، وتحديد الثغرات، وتطوير حلول رقمية آمنة.
+
+---
+
+### 🎯 My Skills at a Glance (Live Demo)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=1000&lines=🛠️+Programming+Languages;Python+•+C%2B%2B+•+Java+•+JavaScript+•+TypeScript+•+Go+•+Rust;🔐+Security+Tools;Metasploit+•+Nmap+•+Burp+Suite+•+Wireshark+•+Ghidra+•+Splunk;☁️+Cloud+%26+DevOps;AWS+•+Azure+•+Terraform+•+Kubernetes+•+Docker+•+Ansible;🤖+AI+%26+Machine+Learning;TensorFlow+•+PyTorch+•+OpenCV+•+LangChain+•+Hugging+Face;🌐+Networking+%26+Infrastructure;Cisco+IOS+•+BGP+•+OSPF+•+MPLS+•+VPN+•+Firewalls;🎯+Always+Learning+%26+Evolving" />
+</p>
+
+---
+
+### 🎯 Current Mission
 
 - 🔐 Master Cybersecurity
 - 🌐 Advance Full Stack Development
@@ -33,7 +49,7 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 
 ---
 
-🏆 Certifications & Achievements
+### 🏆 Certifications & Achievements
 
 <p align="center">
   <a href="https://lnkd.in/dRCcTwf5">
@@ -52,7 +68,15 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 
 ---
 
-⚔️ Cybersecurity Focus Areas (Operational & Strategic)
+### 🎓 My Academic Journey & Practical Experience
+
+- **🎓 كلية المنار الجامعية للعلوم والتكنولوجيا** (https://mus.edu.ye): أدرس حالياً في كلية المنار الجامعية للعلوم والتكنولوجيا، الواقعة في محافظة حجة. أتابع دراستي في تخصص يتيح لي فهم أسس الأمن السيبراني والشبكات وتكنولوجيا المعلومات بشكل أكاديمي متين.
+- **🧪 الخبرات العملية**: إلى جانب دراستي، أقوم ببناء مختبرات افتراضية لاختبار الاختراق (Virtual Pentesting Labs) باستخدام VMware، وأعمل على مشاريع عملية في أمن الشبكات وتحليل الثغرات.
+- **📚 التعلم المستمر**: أؤمن بأن التعلم لا يتوقف عند حدود المنهج الدراسي، لذلك أحرص على متابعة أحدث المستجدات في مجال الأمن السيبراني من خلال منصات مثل TryHackMe و HackTheBox، والمشاركة في مسابقات CTF.
+
+---
+
+### ⚔️ Cybersecurity Focus Areas (Operational & Strategic)
 
 ├── Network Security
 ├── Penetration Testing
@@ -76,7 +100,7 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 
 ---
 
-💻 Programming Languages (System, Web, Mobile, & Data)
+### 💻 Programming Languages (System, Web, Mobile, & Data)
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -104,11 +128,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white"/>
 </p>
 
-> 📘 **رؤية أكاديمية:** يجمع هذا القسم بين لغات البرمجة عالية المستوى (للتطبيقات والويب) واللغات منخفضة المستوى (للأنظمة والهندسة العكسية)، بالإضافة إلى لغات مختصة في الذكاء الاصطناعي وتحليل البيانات، مما يمنح المهندس الأمني رؤية شاملة لبناء وتأمين الأنظمة من الصفر.
+> **📘 رؤيتي الأكاديمية:** أؤمن بأن المهندس الأمني الشامل يحتاج إلى إتقان لغات برمجة متعددة المستويات. لذلك، أركز على تعلم اللغات عالية المستوى لتطوير التطبيقات والويب، واللغات منخفضة المستوى لفهم الأنظمة والهندسة العكسية، بالإضافة إلى لغات مختصة في الذكاء الاصطناعي وتحليل البيانات. هذا التنوع يمنحني رؤية شاملة لبناء وتأمين الأنظمة من الصفر.
 
 ---
 
-🧩 Frameworks, Libraries & AI Engines
+### 🧩 Frameworks, Libraries & AI Engines
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -133,11 +157,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-> ⚙️ **توظيف أكاديمي:** تُستخدم هذه الأطر لبناء تطبيقات آمنة، ونمذجة سلوكيات الهجمات باستخدام الذكاء الاصطناعي، وتطوير أدوات مساعدة في تحليل البرمجيات الخبيثة ونظم كشف التسلل.
+> **⚙️ كيف أوظف هذه الأدوات:** أستخدم هذه الأطر لبناء تطبيقات آمنة، ونمذجة سلوكيات الهجمات باستخدام الذكاء الاصطناعي، وتطوير أدوات مساعدة في تحليل البرمجيات الخبيثة ونظم كشف التسلل. هذا التكامل بين التطوير والأمن هو ما أسعى لإتقانه.
 
 ---
 
-🛜 Network Engineering & Infrastructure (Core Protocols & Hardware)
+### 🛜 Network Engineering & Infrastructure (Core Protocols & Hardware)
 
 ├── Routing & Switching (Cisco IOS, BGP, OSPF, EIGRP, MPLS)
 ├── Network Security (Firewalls, ACLs, VPNs, IPSec, SSL/TLS)
@@ -146,11 +170,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 ├── Load Balancing & Proxies (HAProxy, Nginx, F5)
 └── Wireless Security (802.11, WPA3, RADIUS, 802.1X)
 
-> 🌐 **المنظور العلمي:** يمثل هذا القسم العمود الفقري للبنية التحتية لأي مؤسسة، حيث يفهم المهندس الأمني كيفية عمل البيانات على المستوى الفيزيائي والمنطقي لتحديد نقاط الضعف وتأمين تدفق المعلومات.
+> **🌐 المنظور العلمي الذي أتبناه:** أعتبر هذا القسم بمثابة العمود الفقري لأي بنية تحتية. فأنا أركز على فهم كيفية عمل البيانات على المستوى الفيزيائي والمنطقي، لأن هذا الفهم العميق هو ما يمكنني من تحديد نقاط الضعف وتأمين تدفق المعلومات بشكل فعّال.
 
 ---
 
-🛡️ Cybersecurity Arsenal (Kali Linux & Professional Suites)
+### 🛡️ Cybersecurity Arsenal (Kali Linux & Professional Suites)
 
 <!-- الفئة الأولى -->
 <p align="center">
@@ -210,11 +234,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge"/>
 </p>
 
-> 🧪 **التكامل المخبري:** يجمع هذا الترسانة بين أدوات الهجوم (الاستغلال والحركة الجانبية) وأدوات الدفاع (التحليل والاستخبارات)، مما يمكن المهندس من محاكاة سيناريوهات الاختراق الواقعية في بيئات معزولة (مختبرات افتراضية) لفهم عقلية المهاجم.
+> **🧪 منهجي في التطبيق العملي:** أؤمن بأن الممارسة هي المفتاح. لذلك، أقوم ببناء مختبرات افتراضية لمحاكاة سيناريوهات الاختراق الواقعية، مستخدماً هذه الترسانة المتكاملة من أدوات الهجوم والدفاع. هذا المزيج بين أدوات الاستغلال والحركة الجانبية من جهة، وأدوات التحليل والاستخبارات من جهة أخرى، يمكنني من فهم عقلية المهاجم والمدافع معاً.
 
 ---
 
-🖥️ Operating Systems & Virtualization (Cross-Platform Mastery)
+### 🖥️ Operating Systems & Virtualization (Cross-Platform Mastery)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -227,11 +251,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
 
-> 🖥️ **الفهم المعماري:** السيطرة على بيئات متعددة (سطح المكتب، الخوادم، المحمول، والمحاكاة الافتراضية) تمنح المهندس الأمني القدرة على تصميم حلول أمنية متوافقة مع جميع بيئات التشغيل، وتأمين أنظمة المؤسسات المختلطة (Hybrid Environments).
+> **🖥️ فهمي المعماري:** أدرك أن السيطرة على بيئات متعددة - من سطح المكتب والخوادم إلى المحمول والمحاكاة الافتراضية - هي سمة أساسية للمهندس الأمني المحترف. هذا الفهم يمكنني من تصميم حلول أمنية متوافقة مع جميع بيئات التشغيل، وتأمين أنظمة المؤسسات المختلطة (Hybrid Environments) بكفاءة.
 
 ---
 
-☁️ Cloud Platforms & Infrastructure as Code (IaC)
+### ☁️ Cloud Platforms & Infrastructure as Code (IaC)
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -245,11 +269,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 </p>
 
-> ☁️ **التحول الرقمي الآمن:** إتقان السحابة وبنيتها ككود (IaC) يُعد جوهر الأمن السيبراني الحديث، حيث يتم دمج السياسات الأمنية مباشرة في دورة حياة التطوير (DevSecOps) لضمان تصحيح الثغرات قبل النشر.
+> **☁️ رؤيتي للتحول الرقمي الآمن:** أعتبر إتقان السحابة وبنيتها ككود (IaC) جوهر الأمن السيبراني الحديث. هدفي هو دمج السياسات الأمنية مباشرة في دورة حياة التطوير (DevSecOps) لضمان تصحيح الثغرات قبل النشر، وهذا ما أركز على تعلمه وتطبيقه.
 
 ---
 
-🗄️ Databases & Development Tools
+### 🗄️ Databases & Development Tools
 
 <p align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -266,11 +290,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
-> 🗃️ **تكامل البيانات والأدوات:** يمثل هذا القسم العمود الفقري لتخزين البيانات وإدارة سير العمل، حيث تشكل قواعد البيانات الهدف الأول للمهاجمين، لذا يجب فهم آليات حقن SQL وهجمات NoSQL، واستخدام أدوات الأتمتة لتأمين خطوط الإنتاج.
+> **🗃️ تكامل البيانات والأدوات في مساري:** أعتبر هذا القسم بمثابة العمود الفقري لتخزين البيانات وإدارة سير العمل. أدرك أن قواعد البيانات هي الهدف الأول للمهاجمين، لذلك أركز على فهم آليات حقن SQL وهجمات NoSQL، واستخدام أدوات الأتمتة لتأمين خطوط الإنتاج.
 
 ---
 
-🧠 Artificial Intelligence & Data Science for Security
+### 🧠 Artificial Intelligence & Data Science for Security
 
 ├── Machine Learning (Supervised & Unsupervised) for Anomaly Detection
 ├── Deep Learning (CNNs, RNNs, Transformers) for Malware Classification
@@ -280,11 +304,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 ├── LLM Security (Prompt Engineering, Jailbreak Defense, Data Leakage)
 └── MLOps & Model Monitoring (Drift Detection, Adversarial ML)
 
-> 🤖 **الأمن المعرفي (Cognitive Security):** هذا القسم يمثل التخصص الأحدث والأعمق، حيث يتم توظيف الذكاء الاصطناعي ليس فقط لتحليل التهديدات، بل لتوقعها. دراسة هجمات (Adversarial ML) وحماية النماذج اللغوية الكبيرة (LLMs) هي مستقبل الأمن السيبراني.
+> **🤖 شغفي بالأمن المعرفي (Cognitive Security):** أرى في هذا القسم التخصص الأحدث والأعمق، حيث يتم توظيف الذكاء الاصطناعي ليس فقط لتحليل التهديدات، بل لتوقعها. أدرس حالياً هجمات (Adversarial ML) وأعمل على فهم كيفية حماية النماذج اللغوية الكبيرة (LLMs)، لأنني أؤمن بأن هذا هو مستقبل الأمن السيبراني.
 
 ---
 
-📐 Cybersecurity Frameworks & Theoretical Pillars
+### 📐 Cybersecurity Frameworks & Theoretical Pillars
 
 ├── MITRE ATT&CK® Framework (Tactics, Techniques & Procedures)
 ├── Cyber Kill Chain (Recon → Weaponization → Delivery → Exploitation)
@@ -294,11 +318,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 ├── Cryptography Fundamentals (Symmetric/AES, Asymmetric/RSA, Hashing/SHA)
 └── Zero Trust Architecture (ZTNA, Micro-segmentation, SASE)
 
-> 🏛️ **المرتكزات النظرية:** توفر هذه الأطر لغة مشتركة بين المهندسين والإدارة، وتُعد خريطة طريق منهجية لبناء برامج أمنية ناضجة، وتقييم النضج الأمني للمؤسسات، وتطبيق مبدأ "لا تثق مطلقاً، تحقق دائماً" (Zero Trust).
+> **🏛️ مرتكزاتي النظرية:** أعتبر هذه الأطر بمثابة الخريطة التي توجه مساري المهني. فهي توفر لغة مشتركة بين المهندسين والإدارة، وتُعد منهجية لبناء برامج أمنية ناضجة، وتقييم النضج الأمني للمؤسسات. كما أنها تمكنني من تطبيق مبدأ "لا تثق مطلقاً، تحقق دائماً" (Zero Trust) بشكل منهجي.
 
 ---
 
-🚀 Strategic Projects
+### 🚀 Strategic Projects
 
 🎓 Student Management System
 
@@ -326,7 +350,7 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-📌 Endpoint Security & Advanced Defense Skills
+### 📌 Endpoint Security & Advanced Defense Skills
 *(Newly acquired from Cisco Endpoint Security certification)*
 
 ├── Endpoint Protection & Compliance Management
@@ -338,7 +362,7 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-📚 Knowledge Library & Favorite References
+### 📚 Knowledge Library & Favorite References
 
 | المجال | المصدر / المرجع |
 | :--- | :--- |
@@ -349,11 +373,11 @@ Hands-on implementations focused on network defense and monitoring.
 | **🧠 الهندسة العكسية** | *Reverse Engineering for Beginners* (Dennis Yurichev) |
 | **📋 الأطر الاستراتيجية** | *MITRE ATT&CK® Evaluations*, *NIST SP 800-53* (الإطار الرقابي) |
 
-> 📖 **التكوين الأكاديمي:** يجمع هذا المرجع بين الكتب الكلاسيكية في الشبكات والأمن، والمراجع الحديثة في الذكاء الاصطناعي، لضمان بناء معرفي متوازن يجمع بين النظرية العميقة والتطبيق العملي.
+> **📖 تكويني الأكاديمي:** أحرص على بناء معرفتي من خلال مزيج من الكتب الكلاسيكية في الشبكات والأمن، والمراجع الحديثة في الذكاء الاصطناعي. هذا التوازن بين النظرية العميقة والتطبيق العملي هو ما يشكل أساس رؤيتي الأكاديمية.
 
 ---
 
-🏅 Beyond Certifications (CTF & Open Source)
+### 🏅 Beyond Certifications (CTF & Open Source)
 
 | النشاط | التفاصيل |
 | :--- | :--- |
@@ -364,7 +388,7 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-📊 GitHub Profile Summary
+### 📊 GitHub Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arfat-alkamly&theme=tokyonight"/>
@@ -380,7 +404,7 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arfat-alkamly/arfat-alkamly/output/github-contribution-grid-snake-dark.svg">
@@ -392,13 +416,13 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-📈 GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=tokyonight"/></p>
 
 ---
 
-🏅 GitHub Trophies
+### 🏅 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=arfat-alkamly&theme=algolia&no-frame=true&row=1&column=7"/>
@@ -406,7 +430,7 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-📚 2026 Learning Roadmap (Holistic Cybersecurity & Tech Mastery)
+### 📚 2026 Learning Roadmap (Holistic Cybersecurity & Tech Mastery)
 
 [✓] Networking Fundamentals
 [✓] Linux Fundamentals
@@ -436,16 +460,16 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-🔬 Research Interests & Academic Vision
+### 🔬 Research Interests & Academic Vision
 
-- **🧪 أمن الذكاء الاصطناعي (AI Security):** دراسة الهجمات الخصومية (Adversarial Attacks) وتأمين نماذج التعلم العميق ضد التضليل.
-- **🧬 التشفير ما بعد الكم (Post-Quantum Cryptography):** استكشاف الخوارزميات المقاومة للحواسيب الكمومية (مثل CRYSTALS-Kyber).
-- **🌐 أمن إنترنت الأشياء والبنية التحتية الحرجة (IoT & SCADA):** تحليل نقاط الضعف في البروتوكولات الصناعية (Modbus, DNP3) وتأمين المدن الذكية.
-- **📊 تحليل الاستخبارات مفتوحة المصدر (OSINT):** تطوير أدوات لربط التهديدات السيبرانية بالبشر (Human Intelligence).
+- **🧪 أمن الذكاء الاصطناعي (AI Security):** أركز على دراسة الهجمات الخصومية (Adversarial Attacks) وتأمين نماذج التعلم العميق ضد التضليل.
+- **🧬 التشفير ما بعد الكم (Post-Quantum Cryptography):** أستكشف الخوارزميات المقاومة للحواسيب الكمومية (مثل CRYSTALS-Kyber) استعداداً للمستقبل.
+- **🌐 أمن إنترنت الأشياء والبنية التحتية الحرجة (IoT & SCADA):** أحلل نقاط الضعف في البروتوكولات الصناعية (Modbus, DNP3) وأساهم في تأمين المدن الذكية.
+- **📊 تحليل الاستخبارات مفتوحة المصدر (OSINT):** أطور أدوات لربط التهديدات السيبرانية بالبشر (Human Intelligence) لفهم أعمق للهجمات.
 
 ---
 
-🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="center"><a href="https://github.com/arfat-alkamly">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
