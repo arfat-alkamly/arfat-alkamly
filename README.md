@@ -5,7 +5,7 @@
 </h3><p align="center">
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00B4D8,100:001F3F&height=220&section=header&text=Cybersecurity%20Engineer%20in%20Progress&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Network+Security+Specialist;Future+Security+Engineer;Penetration+Testing+Learner;Secure+Software+Developer;Building+A+Safer+Digital+Future" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Network+Security+Specialist;Future+Security+Engineer;Penetration+Testing+Learner;Secure+Software+Developer;Building+A+Safer+Digital+Future;AI+%26+ML+Security+Enthusiast;Cloud+%26+DevSecOps+Advocate" />
 </p><p align="center">
 <img src="https://komarev.com/ghpvc/?username=arfat-alkamly&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge"/>
 </p>---
@@ -52,7 +52,7 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 
 ---
 
-⚔️ Cybersecurity Focus Areas
+⚔️ Cybersecurity Focus Areas (Operational & Strategic)
 
 ├── Network Security
 ├── Penetration Testing
@@ -68,15 +68,17 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 ├── DevSecOps & CI/CD Security
 ├── Container Security (Docker/K8s)
 ├── SIEM & Log Analysis (Splunk)
-├── Reverse Engineering & Malware Analysis   <!-- NEW -->
-└── AI-Driven Threat Detection               <!-- NEW -->
+├── Reverse Engineering & Malware Analysis
+├── AI-Driven Threat Detection
+├── IoT & OT Security
+├── Blockchain & Web3 Security
+└── Governance, Risk & Compliance (GRC)
 
 ---
 
-💻 Programming Languages (System, Web, & Mobile)
+💻 Programming Languages (System, Web, Mobile, & Data)
 
 <p align="center">
-  <!-- الموجودة سابقاً -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8A00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -86,7 +88,6 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 <p align="center">
-  <!-- إضافات جديدة (لغات ويب/أنظمة/تطبيقات) -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
@@ -95,13 +96,21 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white"/>
+</p>
+
+> 📘 **رؤية أكاديمية:** يجمع هذا القسم بين لغات البرمجة عالية المستوى (للتطبيقات والويب) واللغات منخفضة المستوى (للأنظمة والهندسة العكسية)، بالإضافة إلى لغات مختصة في الذكاء الاصطناعي وتحليل البيانات، مما يمنح المهندس الأمني رؤية شاملة لبناء وتأمين الأنظمة من الصفر.
 
 ---
 
 🧩 Frameworks, Libraries & AI Engines
 
 <p align="center">
-  <!-- الموجودة سابقاً -->
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -109,7 +118,6 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 <p align="center">
-  <!-- إضافات جديدة (تطبيقات، ويب، ذكاء اصطناعي) -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -117,12 +125,34 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+> ⚙️ **توظيف أكاديمي:** تُستخدم هذه الأطر لبناء تطبيقات آمنة، ونمذجة سلوكيات الهجمات باستخدام الذكاء الاصطناعي، وتطوير أدوات مساعدة في تحليل البرمجيات الخبيثة ونظم كشف التسلل.
 
 ---
 
-🛡️ Cybersecurity Arsenal (Kali Linux & Professional Tools)
+🛜 Network Engineering & Infrastructure (Core Protocols & Hardware)
 
-<!-- الفئة الأولى: أدوات الشبكات والاستغلال (الموجودة سابقاً مع إضافات) -->
+├── Routing & Switching (Cisco IOS, BGP, OSPF, EIGRP, MPLS)
+├── Network Security (Firewalls, ACLs, VPNs, IPSec, SSL/TLS)
+├── TCP/IP Stack Deep Dive (HTTP/2, HTTP/3, QUIC, DNS, DHCP)
+├── Software-Defined Networking (SDN) & Network Automation (Ansible)
+├── Load Balancing & Proxies (HAProxy, Nginx, F5)
+└── Wireless Security (802.11, WPA3, RADIUS, 802.1X)
+
+> 🌐 **المنظور العلمي:** يمثل هذا القسم العمود الفقري للبنية التحتية لأي مؤسسة، حيث يفهم المهندس الأمني كيفية عمل البيانات على المستوى الفيزيائي والمنطقي لتحديد نقاط الضعف وتأمين تدفق المعلومات.
+
+---
+
+🛡️ Cybersecurity Arsenal (Kali Linux & Professional Suites)
+
+<!-- الفئة الأولى -->
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge"/>
@@ -134,17 +164,29 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<!-- الفئة الثانية: أدوات الثغرات والهندسة العكسية (جديدة) -->
+<!-- الفئة الثانية -->
 <p align="center">
   <img src="https://img.shields.io/badge/Ghidra-00B4D8?style=for-the-badge&logo=ghidra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IDA_Pro-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/x64dbg-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/dnSpy-6B4C9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nessus-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenVAS-00AA00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Impacket-FFD700?style=for-the-badge"/>
 </p>
 
-<!-- الفئة الثالثة: أدوات الاختراق والاستخبارات (جديدة) -->
+<!-- الفئة الثالثة -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cobalt_Strike-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responder-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrackMapExec-008000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BloodHound-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Impacket-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BeEF-000000?style=for-the-badge"/>
+</p>
+
+<!-- الفئة الرابعة -->
 <p align="center">
   <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nikto-00FF00?style=for-the-badge"/>
@@ -152,16 +194,23 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Hashcat-00BFFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SET-FF0000?style=for-the-badge&label=Social-Engineer"/>
   <img src="https://img.shields.io/badge/Recon--ng-000080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YARA-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cuckoo_Sandbox-FF6600?style=for-the-badge"/>
 </p>
 
-<!-- الفئة الرابعة: أدوات السحابة والدفاع (جديدة) -->
+<!-- الفئة الخامسة -->
 <p align="center">
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logo=zeek&logoColor=white"/>
   <img src="https://img.shields.io/badge/John_the_Ripper-FF8800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Palo_Alto-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge"/>
 </p>
+
+> 🧪 **التكامل المخبري:** يجمع هذا الترسانة بين أدوات الهجوم (الاستغلال والحركة الجانبية) وأدوات الدفاع (التحليل والاستخبارات)، مما يمكن المهندس من محاكاة سيناريوهات الاختراق الواقعية في بيئات معزولة (مختبرات افتراضية) لفهم عقلية المهاجم.
 
 ---
 
@@ -178,6 +227,26 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
 </p>
 
+> 🖥️ **الفهم المعماري:** السيطرة على بيئات متعددة (سطح المكتب، الخوادم، المحمول، والمحاكاة الافتراضية) تمنح المهندس الأمني القدرة على تصميم حلول أمنية متوافقة مع جميع بيئات التشغيل، وتأمين أنظمة المؤسسات المختلطة (Hybrid Environments).
+
+---
+
+☁️ Cloud Platforms & Infrastructure as Code (IaC)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+> ☁️ **التحول الرقمي الآمن:** إتقان السحابة وبنيتها ككود (IaC) يُعد جوهر الأمن السيبراني الحديث، حيث يتم دمج السياسات الأمنية مباشرة في دورة حياة التطوير (DevSecOps) لضمان تصحيح الثغرات قبل النشر.
+
 ---
 
 🗄️ Databases & Development Tools
@@ -189,12 +258,43 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<!-- إضافات جديدة -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
+
+> 🗃️ **تكامل البيانات والأدوات:** يمثل هذا القسم العمود الفقري لتخزين البيانات وإدارة سير العمل، حيث تشكل قواعد البيانات الهدف الأول للمهاجمين، لذا يجب فهم آليات حقن SQL وهجمات NoSQL، واستخدام أدوات الأتمتة لتأمين خطوط الإنتاج.
+
+---
+
+🧠 Artificial Intelligence & Data Science for Security
+
+├── Machine Learning (Supervised & Unsupervised) for Anomaly Detection
+├── Deep Learning (CNNs, RNNs, Transformers) for Malware Classification
+├── Natural Language Processing (NLP) for Threat Intelligence & Phishing
+├── Computer Vision (OpenCV) for Biometrics & Physical Security
+├── Reinforcement Learning for Adaptive Defense & Autonomous Response
+├── LLM Security (Prompt Engineering, Jailbreak Defense, Data Leakage)
+└── MLOps & Model Monitoring (Drift Detection, Adversarial ML)
+
+> 🤖 **الأمن المعرفي (Cognitive Security):** هذا القسم يمثل التخصص الأحدث والأعمق، حيث يتم توظيف الذكاء الاصطناعي ليس فقط لتحليل التهديدات، بل لتوقعها. دراسة هجمات (Adversarial ML) وحماية النماذج اللغوية الكبيرة (LLMs) هي مستقبل الأمن السيبراني.
+
+---
+
+📐 Cybersecurity Frameworks & Theoretical Pillars
+
+├── MITRE ATT&CK® Framework (Tactics, Techniques & Procedures)
+├── Cyber Kill Chain (Recon → Weaponization → Delivery → Exploitation)
+├── OWASP Top 10 (Web, API, & Mobile Application Security Risks)
+├── NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
+├── ISO 27001 / SOC 2 Compliance & Auditing
+├── Cryptography Fundamentals (Symmetric/AES, Asymmetric/RSA, Hashing/SHA)
+└── Zero Trust Architecture (ZTNA, Micro-segmentation, SASE)
+
+> 🏛️ **المرتكزات النظرية:** توفر هذه الأطر لغة مشتركة بين المهندسين والإدارة، وتُعد خريطة طريق منهجية لبناء برامج أمنية ناضجة، وتقييم النضج الأمني للمؤسسات، وتطبيق مبدأ "لا تثق مطلقاً، تحقق دائماً" (Zero Trust).
 
 ---
 
@@ -220,6 +320,10 @@ VMware-based penetration testing environment for ethical hacking practice.
 
 Hands-on implementations focused on network defense and monitoring.
 
+🤖 AI-Powered Threat Detection System (Planned)
+☁️ Cloud-Native SIEM Dashboard (Elastic Stack / Splunk)
+📱 Mobile App Security Assessment Framework (iOS/Android)
+
 ---
 
 📌 Endpoint Security & Advanced Defense Skills
@@ -231,6 +335,60 @@ Hands-on implementations focused on network defense and monitoring.
 ├── Security Policy Enforcement & Zero-Trust Principles
 ├── Attack Surface Reduction & Zero-Day Protections
 └── Integration with SIEM & Network Defense Layers
+
+---
+
+📚 Knowledge Library & Favorite References
+
+| المجال | المصدر / المرجع |
+| :--- | :--- |
+| **🔐 الأمن السيبراني** | *The Web Application Hacker's Handbook*, *Practical Malware Analysis* |
+| **🌐 الشبكات** | *Computer Networking: A Top-Down Approach* (Kurose & Ross), *TCP/IP Illustrated* |
+| **🤖 الذكاء الاصطناعي** | *Deep Learning* (Ian Goodfellow), *Hands-On Machine Learning* (Aurélien Géron) |
+| **☁️ السحابة والـ DevOps** | *Kubernetes in Action*, *The Phoenix Project* (DevOps ثقافة) |
+| **🧠 الهندسة العكسية** | *Reverse Engineering for Beginners* (Dennis Yurichev) |
+| **📋 الأطر الاستراتيجية** | *MITRE ATT&CK® Evaluations*, *NIST SP 800-53* (الإطار الرقابي) |
+
+> 📖 **التكوين الأكاديمي:** يجمع هذا المرجع بين الكتب الكلاسيكية في الشبكات والأمن، والمراجع الحديثة في الذكاء الاصطناعي، لضمان بناء معرفي متوازن يجمع بين النظرية العميقة والتطبيق العملي.
+
+---
+
+🏅 Beyond Certifications (CTF & Open Source)
+
+| النشاط | التفاصيل |
+| :--- | :--- |
+| **⚔️ TryHackMe / HackTheBox** | مستمر في حل غرف الثغرات وتحليل سيناريوهات الاختراق (Penetration Testing Labs). |
+| **🏁 مسابقات CTF** | المشاركة في تحديات الأمن السيبراني (PicoCTF, CyberTalents) لصقل مهارات الهجوم والدفاع. |
+| **🌍 المصادر المفتوحة** | أؤمن بقوة المصادر المفتوحة في تطوير الأمن، وأساهم في توثيق الأدوات ونشر الوعي التقني. |
+| **📝 كتابة المحتوى التقني** | أقوم بتوثيق تجاربي المخبرية (Labs Write-ups) لمشاركة المعرفة مع المجتمع. |
+
+---
+
+📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arfat-alkamly&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arfat-alkamly&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arfat-alkamly&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arfat-alkamly&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arfat-alkamly&theme=tokyonight&utcOffset=3"/>
+</p>
+
+---
+
+🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arfat-alkamly/arfat-alkamly/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arfat-alkamly/arfat-alkamly/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arfat-alkamly/arfat-alkamly/output/github-contribution-grid-snake.svg">
+</picture>
+
+*(ملاحظة: لتفعيل حركة الثعبان، يمكنك إضافة GitHub Action الخاص بـ Platane/snk).*
 
 ---
 
@@ -248,7 +406,7 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
-📚 2026 Learning Roadmap
+📚 2026 Learning Roadmap (Holistic Cybersecurity & Tech Mastery)
 
 [✓] Networking Fundamentals
 [✓] Linux Fundamentals
@@ -256,22 +414,34 @@ Hands-on implementations focused on network defense and monitoring.
 [✓] Programming Foundations
 [✓] Endpoint Security (Cisco)
 
-[⏳] Web Security
-[⏳] Penetration Testing
-[⏳] Security Operations
-[⏳] Advanced Networking
+[⏳] Web Security (OWASP Top 10)
+[⏳] Penetration Testing (OSCP Path)
+[⏳] Security Operations (Blue Team)
+[⏳] Advanced Networking (CCNA/CCNP)
 [⏳] Cloud Security (AWS/Azure)
-[⏳] DevSecOps Pipelines
-[⏳] AI/ML in Cybersecurity (SecAI)        <!-- NEW -->
+[⏳] DevSecOps Pipelines (CI/CD Security)
+[⏳] AI/ML in Cybersecurity (SecAI)
 
-[🎯] Cloud Security
-[🎯] Digital Forensics
-[🎯] Malware Analysis
-[🎯] Security Engineering
-[🎯] Container Security (Kubernetes)
-[🎯] Reverse Engineering (x86/ARM)         <!-- NEW -->
-[🎯] Red Teaming & Adversary Emulation     <!-- NEW -->
-[🎯] Threat Hunting & Intel Analysis       <!-- NEW -->
+[🎯] Cloud Security (AWS/Azure Advanced)
+[🎯] Digital Forensics & Incident Response (DFIR)
+[🎯] Malware Analysis & Reverse Engineering (x86/ARM)
+[🎯] Security Engineering & Architecture
+[🎯] Container Security (Kubernetes & Istio)
+[🎯] Reverse Engineering (x86/ARM)
+[🎯] Red Teaming & Adversary Emulation
+[🎯] Threat Hunting & Intel Analysis
+[🎯] IoT & OT Security (Industrial Control Systems)
+[🎯] Blockchain & Smart Contract Security (Auditing)
+[🎯] GRC (Governance, Risk, Compliance) & ISO 27001 Lead Implementer
+
+---
+
+🔬 Research Interests & Academic Vision
+
+- **🧪 أمن الذكاء الاصطناعي (AI Security):** دراسة الهجمات الخصومية (Adversarial Attacks) وتأمين نماذج التعلم العميق ضد التضليل.
+- **🧬 التشفير ما بعد الكم (Post-Quantum Cryptography):** استكشاف الخوارزميات المقاومة للحواسيب الكمومية (مثل CRYSTALS-Kyber).
+- **🌐 أمن إنترنت الأشياء والبنية التحتية الحرجة (IoT & SCADA):** تحليل نقاط الضعف في البروتوكولات الصناعية (Modbus, DNP3) وتأمين المدن الذكية.
+- **📊 تحليل الاستخبارات مفتوحة المصدر (OSINT):** تطوير أدوات لربط التهديدات السيبرانية بالبشر (Human Intelligence).
 
 ---
 
