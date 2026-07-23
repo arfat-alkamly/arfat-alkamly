@@ -1,4 +1,4 @@
-  <p align="center">⚡ Arafat Al-Kamly ⚡</p>
+<p align="center">⚡ Arafat Al-Kamly ⚡</p>
 
 <h3 align="center">
 🔐 Cybersecurity Student • Network Security Enthusiast • Future Security Engineer
@@ -35,13 +35,23 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 
 🏆 Certifications & Achievements
 
-<p align="center"><a href="https://lnkd.in/dRCcTwf5">
-<img src="https://img.shields.io/badge/Cisco-Introduction_to_Modern_AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a><a href="https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url">
-<img src="https://img.shields.io/badge/Cisco_IT_Customer_Support_Basics-Verified-success?style=for-the-badge"/>
-</a><a href="https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url">
-<img src="https://img.shields.io/badge/Cisco_Learn_A_Thon_2026-Participant-blue?style=for-the-badge"/>
-</a></p>---
+<p align="center">
+  <!-- تم تعديل اسم شهادة AI ليصبح واضحاً -->
+  <a href="https://lnkd.in/dRCcTwf5">
+    <img src="https://img.shields.io/badge/Cisco-Intro_to_Artificial_Intelligence-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+  <a href="https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url">
+    <img src="https://img.shields.io/badge/Cisco_IT_Customer_Support_Basics-Verified-success?style=for-the-badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url">
+    <img src="https://img.shields.io/badge/Cisco_Learn_A_Thon_2026-Participant-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url">
+    <img src="https://img.shields.io/badge/Cisco-Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ⚔️ Cybersecurity Focus Areas
 
@@ -54,7 +64,11 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 ├── Linux Administration
 ├── Secure Coding
 ├── Digital Forensics
-└── Threat Intelligence
+├── Threat Intelligence
+├── Cloud Security (AWS/Azure)           <!-- NEW -->
+├── DevSecOps & CI/CD Security          <!-- NEW -->
+├── Container Security (Docker/K8s)     <!-- NEW -->
+└── SIEM & Log Analysis (Splunk)        <!-- NEW -->
 
 ---
 
@@ -66,7 +80,20 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></p>---
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></p>
+
+<!-- NEW: Frameworks Section -->
+🧩 Frameworks & Technologies
+
+<p align="center">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+---
 
 🛡️ Cybersecurity Arsenal
 
@@ -77,7 +104,17 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>---
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
+
+<!-- NEW: Advanced Security Tools -->
+<p align="center">
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge&logo=zeek&logoColor=white"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-FF8800?style=for-the-badge"/>
+</p>
+
+---
 
 🗄️ Databases & Development Tools
 
@@ -87,7 +124,9 @@ My goal is to become a Security Engineer capable of protecting modern infrastruc
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></p>---
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></p>
+
+---
 
 🚀 Strategic Projects
 
@@ -113,15 +152,31 @@ Hands-on implementations focused on network defense and monitoring.
 
 ---
 
+📌 Endpoint Security & Advanced Defense Skills
+*(Newly acquired from Cisco Endpoint Security certification)*
+
+├── Endpoint Protection & Compliance Management
+├── Malware Detection & Analysis (Cisco AMP)
+├── Threat Response & Automated Remediation
+├── Security Policy Enforcement & Zero-Trust Principles
+├── Attack Surface Reduction & Zero-Day Protections
+└── Integration with SIEM & Network Defense Layers
+
+---
+
 📈 GitHub Statistics
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=tokyonight"/></p>---
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=tokyonight"/></p>
+
+---
 
 🏅 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=arfat-alkamly&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>---
+</p>
+
+---
 
 📚 2026 Learning Roadmap
 
@@ -129,16 +184,20 @@ Hands-on implementations focused on network defense and monitoring.
 [✓] Linux Fundamentals
 [✓] Cisco Networking Academy
 [✓] Programming Foundations
+[✓] Endpoint Security (Cisco)
 
 [⏳] Web Security
 [⏳] Penetration Testing
 [⏳] Security Operations
 [⏳] Advanced Networking
+[⏳] Cloud Security (AWS/Azure)      <!-- NEW -->
+[⏳] DevSecOps Pipelines            <!-- NEW -->
 
 [🎯] Cloud Security
 [🎯] Digital Forensics
 [🎯] Malware Analysis
 [🎯] Security Engineering
+[🎯] Container Security (Kubernetes) <!-- NEW -->
 
 ---
 
@@ -154,8 +213,8 @@ Hands-on implementations focused on network defense and monitoring.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a><a href="https://www.tiktok.com/@dark.hacker_x">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
-</a></p>---
+</a></p>
 
-<p align="center">⚡ "Security Is Not A Product, It Is A Process."
+---
 
-</p>
+<p align="center">⚡ "Security Is Not A Product, It Is A Process."</p>
