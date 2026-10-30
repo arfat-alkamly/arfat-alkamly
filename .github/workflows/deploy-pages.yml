@@ -1,0 +1,51 @@
+name: Deploy portfolio to GitHub Pages
+
+on:
+  push:
+    branches: [portfolio]
+    paths:
+      - "docs/**"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Validate static site
+        run: |
+          test -s docs/index.html
+          test -s docs/projects.html
+          test -s docs/research.html
+          test -s docs/cv.html
+          test -s docs/404.html
+          test -s docs/sitemap.xml
+          grep -q 'name="description"' docs/index.html
+          grep -q 'href="cv.html"' docs/index.html
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
