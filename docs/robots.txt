@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arfat-alkamly.github.io/arfat-alkamly/sitemap.xml
