@@ -201,39 +201,20 @@
 
 ---
 
-## 📅 Monthly Learning Schedule (2026)
+## 🗓️ Rolling Learning Plan
 
-### Q1: January — March
-| الشهر | التركيز الرئيسي | الساعات/أسبوع |
-|:---|:---|:---:|
-| **يناير** | OWASP Top 10 + Web App Labs | 15-20 |
-| **فبراير** | Burp Suite Advanced + API Security | 15-20 |
-| **مارس** | Network Pentesting + Enumeration | 15-20 |
+بدلاً من ربط الخطة بأشهر انقضت، تُدار الأولويات التالية على شكل دورات تعلم متتابعة. يتم نقل الموضوع إلى «مكتمل» بعد وجود تطبيق أو تقرير أو تقييم يمكن الرجوع إليه.
 
-### Q2: April — June
-| الشهر | التركيز الرئيسي | الساعات/أسبوع |
-|:---|:---|:---:|
-| **أبريل** | Active Directory Attacks | 15-20 |
-| **مايو** | Privilege Escalation (Linux/Windows) | 15-20 |
-| **يونيو** | OSCP Prep — Buffer Overflow & Exploitation | 20-25 |
+| الأولوية | مسار التعلم | مخرج عملي مقترح |
+|:--:|---|---|
+| 1 | Network & Linux Foundations | مختبر شبكة موثق وتحليل PCAP |
+| 2 | Web & API Security | تقارير اختبار لتطبيقات تدريبية مع توصيات إصلاح |
+| 3 | Defensive Monitoring & SOC | مصادر سجلات وقواعد كشف ولوحة مراقبة |
+| 4 | DFIR Fundamentals | تمرين استجابة لحادث وسلسلة حيازة أدلة |
+| 5 | Secure Software & DevSecOps | فحوصات آلية للكود والاعتماديات ضمن CI |
+| 6 | Cloud & AI Security | نموذج تهديد وتجربة تقييم محددة النطاق |
 
-### Q3: July — September
-| الشهر | التركيز الرئيسي | الساعات/أسبوع |
-|:---|:---|:---:|
-| **يوليو** | Blue Team Basics + SIEM (Splunk) | 15-20 |
-| **أغسطس** | Incident Response + Forensics Intro | 15-20 |
-| **سبتمبر** | Cloud Security (AWS) | 15-20 |
-
-### Q4: October — December
-| الشهر | التركيز الرئيسي | الساعات/أسبوع |
-|:---|:---|:---:|
-| **أكتوبر** | DevSecOps + CI/CD Security | 15-20 |
-| **نوفمبر** | AI Security + ML for Threat Detection | 15-20 |
-| **ديسمبر** | Review + CTF Competitions | 10-15 |
-
----
-
-## 🎓 Certification Roadmap
+# 🎓 Certification Roadmap
 
 ### 2026 Targets
 | الشهادة | المستوى | الربع المستهدف |
