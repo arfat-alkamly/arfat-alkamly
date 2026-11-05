@@ -102,15 +102,23 @@ The list below describes areas I work with or study. It is not a claim of expert
 
 A visual index of learning achievements, with verification routed to the public issuer/Credly record. The square graphics are custom profile tiles; they are not presented as original issuer artwork.
 
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/cybersecurity-defense-analyst.svg" width="160" alt="Cybersecurity Defense Analyst Career Path"/></a><br/><b>Cybersecurity Defense Analyst Career Path</b><br/>Cisco · 29 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/network-defense.svg" width="160" alt="Network Defense"/></a><br/><b>Network Defense</b><br/>Cisco · 27 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/networking-basics.svg" width="160" alt="Networking Basics"/></a><br/><b>Networking Basics</b><br/>Cisco · 27 Jul 2026 |
-| <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-2.svg" width="160" alt="Python Essentials 2"/></a><br/><b>Python Essentials 2</b><br/>Cisco · 27 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-1.svg" width="160" alt="Python Essentials 1"/></a><br/><b>Python Essentials 1</b><br/>Cisco · 25 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-modern-ai.svg" width="160" alt="Introduction to Modern AI"/></a><br/><b>Introduction to Modern AI</b><br/>Cisco · 23 Jul 2026 |
-| <a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url"><img src="assets/credentials/endpoint-security.svg" width="160" alt="Endpoint Security"/></a><br/><b>Endpoint Security</b><br/>Cisco · 03 Jun 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/digital-content-collaboration.svg" width="160" alt="Digital Content & Collaboration"/></a><br/><b>Digital Content & Collaboration</b><br/>Cisco · 27 May 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-cybersecurity.svg" width="160" alt="Introduction to Cybersecurity"/></a><br/><b>Introduction to Cybersecurity</b><br/>Cisco · 18 May 2026 |
-
-</div>
+<table align="center">
+<tr>
+<td align="center" width="33%"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/cybersecurity-defense-analyst.svg" width="160" alt="Cybersecurity Defense Analyst Career Path"/></a><br/><b>Cybersecurity Defense Analyst Career Path</b><br/>Cisco · 29 Jul 2026</td>
+<td align="center" width="33%"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/network-defense.svg" width="160" alt="Network Defense"/></a><br/><b>Network Defense</b><br/>Cisco · 27 Jul 2026</td>
+<td align="center" width="33%"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/networking-basics.svg" width="160" alt="Networking Basics"/></a><br/><b>Networking Basics</b><br/>Cisco · 27 Jul 2026</td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-2.svg" width="160" alt="Python Essentials 2"/></a><br/><b>Python Essentials 2</b><br/>Cisco · 27 Jul 2026</td>
+<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-1.svg" width="160" alt="Python Essentials 1"/></a><br/><b>Python Essentials 1</b><br/>Cisco · 25 Jul 2026</td>
+<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-modern-ai.svg" width="160" alt="Introduction to Modern AI"/></a><br/><b>Introduction to Modern AI</b><br/>Cisco · 23 Jul 2026</td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url"><img src="assets/credentials/endpoint-security.svg" width="160" alt="Endpoint Security"/></a><br/><b>Endpoint Security</b><br/>Cisco · 03 Jun 2026</td>
+<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/digital-content-collaboration.svg" width="160" alt="Digital Content & Collaboration"/></a><br/><b>Digital Content & Collaboration</b><br/>Cisco · 27 May 2026</td>
+<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-cybersecurity.svg" width="160" alt="Introduction to Cybersecurity"/></a><br/><b>Introduction to Cybersecurity</b><br/>Cisco · 18 May 2026</td>
+</tr>
+</table>
 
 **Additional records:** [Cisco IT Customer Support Basics](https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url) · [Cisco Learn-A-Thon 2026 — Participant](https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url) · [Introduction to Artificial Intelligence](https://lnkd.in/dRCcTwf5)
 
