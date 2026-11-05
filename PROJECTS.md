@@ -4,6 +4,38 @@
 
 ---
 
+## 🛡️ AEGIS-TITAN v9.0-SOVEREIGN — Defensive Cybersecurity System
+
+**الحالة:** 🟡 Independent development project · **المجال:** Defensive Security Engineering / SOC / DFIR
+
+### Overview
+AEGIS-TITAN is an independently developed defensive cybersecurity system intended to bring several security workflows into one operational environment. The project is designed for monitoring, detection, investigation, and controlled response. Its operating philosophy is defensive: it does not perform retaliatory attacks or hack-back activity.
+
+### Core capability areas
+- **Security monitoring & telemetry:** collect and organize system and network observations.
+- **Threat detection & analysis:** identify suspicious activity and support contextual investigation.
+- **Incident handling:** provide controlled isolation and response workflows.
+- **Deception & honeypots:** use defensive deception concepts to observe suspicious interactions.
+- **Digital forensics support:** preserve event context and organize evidence-oriented records.
+- **Threat-path analysis:** help connect observed events into a more useful investigation view.
+- **Source-code review:** support security review of codebases and open-source dependencies.
+
+### Engineering profile
+| Area | Details |
+|---|---|
+| Primary language | Python |
+| Development environment | Kali Linux |
+| Interface direction | SOC-oriented desktop interface |
+| Engineering focus | Modular defensive workflows, telemetry, analysis, and incident handling |
+
+### Project status & evidence
+The developer reports that the core modules have been implemented and exercised in practical tests. The system remains an independently developed project; this repository description is not a third-party audit, certification, or claim of production deployment. Public screenshots, reproducible test notes, architecture diagrams, and sanitized sample reports should be added as they become available.
+
+### Safety boundary
+AEGIS-TITAN is intended for systems and networks the operator owns or is explicitly authorized to assess. Its response model is defensive and controlled; no unauthorized access, destructive action, or retaliation against external systems is part of the project scope.
+
+---
+
 ## 🎓 Academic OS *(Flagship Project)*
 
 **الحالة:** 🟡 In Progress | **التخصص:** Software Engineering + Cybersecurity + AI
