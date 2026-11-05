@@ -1,26 +1,87 @@
-# 🚀 Projects Portfolio
+<div align="center">
 
-> **ملف تفصيلي لجميع المشاريع التقنية والأمنية**
+# Engineering Projects Portfolio
+### Cybersecurity Engineering · Software Development · Applied Technical Work
+
+**Independent development · Academic engineering · Defensive security**
+
+[![Profile](https://img.shields.io/badge/PROFILE-Arfat%20Alkamali-0b3954?style=for-the-badge)](README.md)
+[![Credentials](https://img.shields.io/badge/CREDENTIALS-Verified%20Learning-0b7285?style=for-the-badge)](CREDENTIALS.md)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-24292f?style=for-the-badge&logo=github)](https://github.com/arfat-alkamly)
+
+</div>
 
 ---
 
-## 🛡️ AEGIS-TITAN v9.0-SOVEREIGN — Defensive Cybersecurity System
+## Portfolio at a glance
 
-**الحالة:** 🟡 Independent development project · **المجال:** Defensive Security Engineering / SOC / DFIR
+This document separates **independently developed projects**, **practical learning environments**, and **future project concepts**. Visuals labelled *concept illustration* explain architecture or design direction; they are not presented as screenshots of a running product.
 
-### Overview
-AEGIS-TITAN is an independently developed defensive cybersecurity system intended to bring several security workflows into one operational environment. The project is designed for monitoring, detection, investigation, and controlled response. Its operating philosophy is defensive: it does not perform retaliatory attacks or hack-back activity.
+| Project | Domain | Reported status |
+|---|---|---|
+| **AEGIS-TITAN v9.0-SOVEREIGN** | Defensive Cybersecurity / SOC / DFIR | Independent development; developer-reported practical testing |
+| **Academic OS** | Software Engineering / Academic Productivity | Personal application project; feature maturity varies |
+| Student Management System | Java / Object-Oriented Programming | Completed academic project |
+| Tourism Platform | Front-End Web Development | Completed academic project |
+| Cybersecurity Portfolio | Research / Technical Documentation | Ongoing documentation |
+| Virtual Pentesting Lab | Virtualization / Network Security | Learning environment in progress |
+| Network Security Projects | Network Defense / Monitoring | Practical exercises and lab work |
+| AI-Powered Threat Detection | AI Security | Planned concept |
+| Cloud-Native SIEM Dashboard | Cloud Security / SIEM | Planned concept |
+| Mobile App Security Assessment Framework | Mobile Security | Planned concept |
 
-### Core capability areas
-- **Security monitoring & telemetry:** collect and organize system and network observations.
-- **Threat detection & analysis:** identify suspicious activity and support contextual investigation.
-- **Incident handling:** provide controlled isolation and response workflows.
-- **Deception & honeypots:** use defensive deception concepts to observe suspicious interactions.
-- **Digital forensics support:** preserve event context and organize evidence-oriented records.
-- **Threat-path analysis:** help connect observed events into a more useful investigation view.
-- **Source-code review:** support security review of codebases and open-source dependencies.
+---
+
+# 01 · AEGIS-TITAN v9.0-SOVEREIGN
+
+<badge-placeholder></badge-placeholder>
+
+**Defensive Cybersecurity System**  
+<sub>Independent development · Python · Kali Linux · SOC-oriented workflows</sub>
+
+<div align="center">
+<img src="assets/projects/aegis/enterprise-operations.svg" width="100%" alt="AEGIS enterprise security operations interface concept — illustrative, not a live application screenshot"/>
+<sub><b>Figure 1.</b> SOC operations interface concept. This is an illustrative design, not a screenshot of the running system.</sub>
+</div>
+
+### Project overview
+
+AEGIS-TITAN is an independently developed defensive cybersecurity project intended to bring multiple security workflows into one operational environment. Its design direction focuses on monitoring, detection, investigation, evidence-aware analysis, and controlled response.
+
+The project follows a defensive operating philosophy. It is not designed for retaliation, hack-back, or unauthorized access to external systems.
+
+### Visual system map
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="assets/projects/aegis/defensive-command-environment.svg" width="100%" alt="Defensive command environment concept"/><br/><b>Defensive command environment</b><br/><sub>Conceptual operations environment</sub></td>
+<td width="50%" align="center"><img src="assets/projects/aegis/secure-network-architecture.svg" width="100%" alt="Secure network architecture concept"/><br/><b>Protected network ecosystem</b><br/><sub>Network architecture illustration</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="assets/projects/aegis/threat-intelligence-field.svg" width="100%" alt="Threat intelligence correlation concept"/><br/><b>Threat intelligence field</b><br/><sub>Signals, correlation and context</sub></td>
+<td width="50%" align="center"><img src="assets/projects/aegis/defense-domain.svg" width="100%" alt="Unified defensive mission space concept"/><br/><b>Unified defensive mission space</b><br/><sub>Defensive domains overview</sub></td>
+</tr>
+</table>
+
+<div align="center">
+<img src="assets/projects/aegis/sovereign-core.svg" width="82%" alt="AEGIS sovereign core visual concept"/>
+<br/><sub><b>Figure 6.</b> AEGIS core visual identity and system concept.</sub>
+</div>
+
+### Capability domains
+
+| Domain | Intended engineering role |
+|---|---|
+| Security monitoring & telemetry | Collect and organize system and network observations |
+| Threat detection & analysis | Identify suspicious activity and support contextual investigation |
+| Incident handling | Support controlled isolation and response workflows |
+| Deception & honeypots | Apply defensive deception to observe suspicious interactions |
+| Digital forensics support | Organize event context and evidence-oriented records |
+| Threat-path analysis | Connect observations into a more useful investigation view |
+| Source-code security review | Support review of codebases and open-source dependencies |
 
 ### Engineering profile
+
 | Area | Details |
 |---|---|
 | Primary language | Python |
@@ -28,254 +89,259 @@ AEGIS-TITAN is an independently developed defensive cybersecurity system intende
 | Interface direction | SOC-oriented desktop interface |
 | Engineering focus | Modular defensive workflows, telemetry, analysis, and incident handling |
 
-### Project status & evidence
-The developer reports that the core modules have been implemented and exercised in practical tests. The system remains an independently developed project; this repository description is not a third-party audit, certification, or claim of production deployment. Public screenshots, reproducible test notes, architecture diagrams, and sanitized sample reports should be added as they become available.
+### Development status & evidence
 
-### Safety boundary
-AEGIS-TITAN is intended for systems and networks the operator owns or is explicitly authorized to assess. Its response model is defensive and controlled; no unauthorized access, destructive action, or retaliation against external systems is part of the project scope.
+The developer reports that core modules have been implemented and exercised in practical tests. This remains an independently developed project. The visuals in this document are design and architecture illustrations—not live captures of the application. This repository does not claim an independent security audit, formal certification, or production deployment.
 
----
+**Evidence to publish next:** sanitized live interface captures, a reproducible test log, sample detection events, architecture notes, and a redacted investigation report. Screenshots should be added only from the actual running application.
 
-## 🎓 Academic OS *(Flagship Project)*
+### Safety and authorization
 
-**الحالة:** 🟡 In Progress | **التخصص:** Software Engineering + Cybersecurity + AI
-
-### الرؤية
-نظام أكاديمي ذكي يعمل محلياً على الهاتف (Offline-First)، صمم ليكون حلًا متكاملاً يساعد الطالب على إدارة حياته الدراسية بشكل آمن وذكي باستخدام الذكاء الاصطناعي، مع تركيز مطلق على **الخصوصية** و**الأداء** و**الاستقلال عن الإنترنت**.
-
-### 🎯 أهداف المشروع
-- تنظيم الدراسة والمهام في منصة واحدة
-- رفع إنتاجية الطالب وتقليل التشتت
-- تحليل السلوك الدراسي وتقديم توصيات ذكية
-- حماية البيانات الأكاديمية بأعلى معايير الأمان
-- توفير تجربة استخدام حديثة وسلسة
-
-### 🏗️ البنية التقنية
-
-| المكون | التقنية المستخدمة | الدور |
-|:---|:---|:---|
-| **الواجهة الأمامية** | Flutter, Material Design 3 | بناء واجهة مستخدم حديثة مع دعم الوضع الداكن/الفاتح |
-| **إدارة التطبيق** | Clean Architecture, Riverpod | فصل المسؤوليات وإدارة الحالة بكفاءة |
-| **الذكاء الاصطناعي** | TensorFlow Lite, OCR محلي | تحليل البيانات والسلوك الدراسي بدون اتصال بالإنترنت |
-| **قاعدة البيانات** | SQLite, SQLCipher | تخزين محلي آمن بتشفير AES-256 |
-
-### 🔐 منظومة الأمان
-
-| الميزة | الوصف |
-|:---|:---|
-| **قفل الهوية** | بصمة الإصبع، التعرف على الوجه، رمز PIN احتياطي |
-| **التشفير الكامل** | تشفير قاعدة البيانات بالكامل والملفات الحساسة |
-| **وضع التخفي** | واجهة وهمية عند إدخال رمز خاص لإخفاء البيانات الحقيقية |
-| **حماية الخصوصية** | منع لقطات الشاشة، إخفاء المحتوى من شاشة التطبيقات الحديثة، قفل تلقائي عند ترك التطبيق |
-
-### 📚 الإدارة الأكاديمية
-
-- **إدارة المواد**: المواد الدراسية، الدكاترة، القاعات، الساعات المعتمدة، الملفات
-- **الجدول الدراسي**: عرض يومي، أسبوعي، وشهري
-- **إدارة المهام**: واجبات، مشاريع، اختبارات، مراجعات
-- **الإشعارات الذكية**: تذكير بالمحاضرات، الاختبارات، والمشاريع
-
-### 🤖 محرك الذكاء الاصطناعي
-
-- **المجدول الذكي**: يقترح أفضل أوقات الدراسة والمراجعة بناءً على سلوك الطالب
-- **المرآة الرقمية**: تحلل أوقات النشاط والكسل، مستوى الالتزام، والمواد المهملة، وتولد تقارير أسبوعية وشهرية
-- **المستشار الأكاديمي الذكي**: ينشئ خطط دراسة تلقائية حسب الوقت المتاح، صعوبة المواد، والمواعيد النهائية
-
-### 📸 OCR الذكي
-يحول صور السبورة، أوراق الواجبات، والإعلانات الجامعية إلى نصوص رقمية ومهام وتذكيرات تلقائياً.
-
-### 📊 لوحة القيادة الديناميكية
-
-- **وضع المحاضرة**: المحاضرة الحالية، القاعة، الملفات المطلوبة
-- **وضع المذاكرة**: المهام الحالية، مؤقت الدراسة، الأهداف اليومية
-- **وضع الإنجاز**: الإحصائيات، ساعات الدراسة، معدل الإنجاز
-
-### 🏆 نظام التحفيز والإنجازات
-أوسمة دراسية، نقاط إنجاز، تحديات يومية وأسبوعية، سجل الإنجازات والشهادات.
-
-### 📈 التحليلات والإحصائيات
-ساعات الدراسة، معدل الالتزام، المواد الأكثر دراسة والأكثر تأجيلاً، معدل الإنجاز الشهري.
-
-### 🧠 الميزات المتقدمة المقترحة
-
-| الميزة | الوصف |
-|:---|:---|
-| **التوأم الأكاديمي الرقمي (Academic Digital Twin)** | نموذج رقمي لشخصية الطالب يقدم توقعات ذكية |
-| **مؤشر الخطر الأكاديمي** | قياس احتمالية التعثر في كل مادة بناءً على المعطيات |
-| **بنك المعرفة الشخصي** | مكتبة ذكية تحفظ الملاحظات والملخصات مع محرك بحث داخلي |
-| **مولد الاختبارات الذكي** | إنشاء تلقائي لأسئلة اعتماداً على ملاحظات الطالب |
-| **التسجيل الذكي للمحاضرات** | تسجيل الصوت، تحويله إلى نص، تلخيص المحتوى |
-| **وضع التركيز العميق** | إخفاء المشتتات، مؤقت دراسة، جلسات تركيز منظمة |
-| **خريطة الفصل الدراسي** | عرض بصري كامل للفصل على خط زمني واحد |
-| **وضع الطوارئ الأكاديمية** | يتفعل تلقائياً قبل الاختبارات ويعيد ترتيب الأولويات |
-
-> **🚀 رؤيتي:** أؤمن بأن النجاح الأكاديمي يبدأ من تنظيم الوقت وإدارة المهام بذكاء. من خلال Academic OS، أسعى لتقديم أداة عملية تفيد زملائي الطلاب، وتكون بمثابة تطبيق عملي للمهارات البرمجية والأمنية التي أتعلمها.
+AEGIS-TITAN is intended for systems and networks owned by the operator or covered by explicit authorization. Its response model is defensive and controlled; unauthorized access, destructive actions, and retaliation against external systems are outside the project scope.
 
 ---
 
-## 🎓 Student Management System
+# 02 · Academic OS
 
-**الحالة:** ✅ Completed | **التخصص:** Object-Oriented Programming
+**Offline-First Academic Assistant**  
+<sub>Personal software project · Dart / Flutter direction · Local-first academic workflows</sub>
 
-### الوصف
-تطبيق Java كائني التوجيه لإدارة السجلات الأكاديمية. يتيح للمستخدمين إدارة بيانات الطلاب والمواد والدرجات بطريقة منظمة.
+<div align="center">
+<img src="assets/projects/academic-os/academic-os-architecture.svg" width="100%" alt="Academic OS offline-first architecture illustration — not a live app screenshot"/>
+<sub><b>Figure 1.</b> Conceptual product architecture based on the documented feature set. It is not a screenshot of the running application.</sub>
+</div>
 
-### التقنيات المستخدمة
-- **Java** — اللغة الأساسية
-- **OOP Principles** — التوريث، التعددية الأشكال، التغليف، التجريد
-- **File I/O** — حفظ واسترجاع البيانات
+### Vision
 
-### الميزات
-- إضافة/حذف/تعديل بيانات الطلاب
-- إدارة المواد الدراسية والدرجات
-- حساب المعدل التراكمي (GPA)
-- واجهة سطر أوامر تفاعلية
+Academic OS is a local-first academic assistant designed to help students organize study schedules, tasks, goals, course materials, reminders, and grade tracking in one private workspace. The project emphasizes offline availability, user control over academic data, and a focused bilingual experience.
 
----
+### Main functional areas
 
-## 🌍 Tourism Platform
+- **Academic organization:** subjects, course information, study schedules, tasks, and deadlines.
+- **Grade tracking:** course marks, GPA calculations, and progress toward academic targets.
+- **Learning materials:** local lecture-file organization, search, and study-note workflows.
+- **Study assistance:** an integrated assistant concept for helping organize and understand study content.
+- **Reminders:** notifications for classes, assignments, exams, and planned study sessions.
+- **Personalization:** Arabic/English interface direction, dark mode, and user-configurable application access controls.
+- **Backup:** optional user-controlled backup workflow.
 
-**الحالة:** ✅ Completed | **التخصص:** Full-Stack Web Development
+### Privacy and architecture principles
 
-### الوصف
-منصة ويب متكاملة لعرض وجهات سياحية ومعلومات عنها. منشورة ومتاحة عبر GitHub Pages.
+| Principle | Design direction |
+|---|---|
+| Offline-first | Core academic workflows should remain useful without a network connection |
+| Local data control | Keep personal academic records under the user's control |
+| Privacy-aware access | Provide application-lock options and protect sensitive academic content |
+| Modular design | Keep schedules, grades, files, reminders, and assistant workflows separable |
+| Transparent backup | Make backup an explicit user-controlled action |
 
-### التقنيات المستخدمة
-- **HTML5** — هيكل الصفحات
-- **CSS3** — التصميم والتنسيق
-- **JavaScript** — التفاعلية والديناميكية
+### Status and implementation note
 
-### الميزات
-- عرض وجهات سياحية بتصميم جذاب
-- تصفح سهل ومتجاوب
-- استضافة مجانية عبر GitHub Pages
+This is a personal application project. The feature list above describes the project's documented scope; it should not be interpreted as proof that every advanced feature is already implemented or independently tested. Specific implementation details such as database encryption, biometric authentication, on-device AI, OCR, and automated analytics should be documented with technical evidence before being described as completed capabilities.
 
----
-
-## 🔐 Cybersecurity Portfolio
-
-**الحالة:** 🟡 In Progress | **التخصص:** Cybersecurity Research & Documentation
-
-### الوصف
-مجموعة متكاملة من الأبحاث الأمنية والمختبرات الافتراضية والأدوات المخصصة والتوثيق التقني. يهدف المشروع إلى توثيق رحلتي في مجال الأمن السيبراني ومشاركة المعرفة مع المجتمع.
-
-### المحتويات
-- **Security Research** — تحليل ثغرات وتقارير تقنية
-- **Labs Write-ups** — توثيق تجارب المختبرات الافتراضية
-- **Custom Tools** — أدوات مساعدة مبرمجة بلغة Python
-- **Technical Documentation** — ملاحظات ومراجع نظرية
+**Evidence to publish next:** genuine screenshots from the running application, a short feature walkthrough, a redacted local-data example, and a technical architecture note.
 
 ---
 
-## 🧪 Virtual Pentesting Lab
+# 03 · Student Management System
 
-**الحالة:** 🟡 In Progress | **التخصص:** Penetration Testing & Network Security
+**Java · Object-Oriented Programming · Academic Project**
 
-### الوصف
-بيئة VMware معزولة لاختبار الاختراق الأخلاقي. تحتوي على أجهزة افتراضية متعددة لمحاكاة شبكات مؤسسية حقيقية.
+<badge>Completed academic project</badge>
 
-### البنية التحتية
+A command-line student-record application developed as an object-oriented programming project. It organizes student and course records and supports grade-related operations.
 
-| الجهاز الافتراضي | الدور | نظام التشغيل |
-|:---|:---|:---|
-| **Kali Linux** | محطة الهجوم الرئيسية | Kali Linux |
-| **Windows Server** | Domain Controller & Target | Windows Server 2019 |
-| **Windows 10** | محطة عمل مستهدفة | Windows 10 |
-| **Ubuntu Server** | خادم ويب مستهدف | Ubuntu Server |
-| **pfSense** | جدار حماية وشبكة | pfSense |
+### Documented functions
 
-### السيناريوهات المُحاكاة
-- استغلال ثغرات الويب (OWASP Top 10)
-- هجمات Active Directory (Kerberoasting, Pass-the-Hash)
-- تصعيد الصلاحيات المحلي والشبكي
-- تحليل حركة المرور والتقاط البيانات
+- Add, remove, and update student records.
+- Manage course and grade information.
+- Calculate GPA.
+- Save and retrieve information using file input/output.
+
+### Technical concepts
+
+Java · Encapsulation · Inheritance · Polymorphism · Abstraction · File I/O
+
+**Suggested evidence:** a real terminal screenshot, sample input/output session, and a small class diagram.
 
 ---
 
-## 🛡️ Network Security Projects
+# 04 · Tourism Platform
 
-**الحالة:** 🟡 In Progress | **التخصص:** Network Defense & Monitoring
+**HTML5 · CSS3 · JavaScript · Web Development**
 
-### الوصف
-تطبيقات عملية في الدفاع عن الشبكات والمراقبة باستخدام أدوات وتقنيات متنوعة.
+<badge>Completed academic project</badge>
 
-### المشاريع الفرعية
+A web platform for presenting tourism destinations and related information, with a responsive browsing experience. The project was documented as published through GitHub Pages.
 
-#### 1. Cisco Network Security Lab
-- إعداد VLANs و trunking آمن
-- تطبيق Access Control Lists (ACLs)
-- إعداد VPN site-to-site باستخدام IPSec
+### Documented functions
 
-#### 2. Network Traffic Analysis
-- التقاط وتحليل حركة المرور باستخدام Wireshark
-- تحديد الأنماط المشبوهة والهجمات
-- كتابة قواعد Snort للكشف عن التهديدات
+- Present destination information.
+- Provide straightforward navigation and browsing.
+- Adapt page layout to different screen sizes.
 
-#### 3. Firewall Configuration
-- إعداد pfSense كجدار حماية للشبكة
-- تكوين NAT و port forwarding الآمن
-- تنفيذ سياسات أمنية صارمة
+**Suggested evidence:** actual browser screenshots, the public deployment URL, and a link to the source repository. Add the live URL here once it has been confirmed.
 
 ---
 
-## 🤖 AI-Powered Threat Detection System
+# 05 · Cybersecurity Portfolio
 
-**الحالة:** ⚪ Planned | **التخصص:** AI Security & Machine Learning
+**Security Research · Labs · Tools · Technical Documentation**
 
-### الوصف
-نظام كشف تهديدات باستخدام التعلم الآلي. يهدف إلى التعرف على الأنماط غير الطبيعية في حركة المرور والسلوكيات.
+<badge>In progress</badge>
 
-### التقنيات المخططة
-- **Python** — التطوير
-- **TensorFlow / Scikit-Learn** — نماذج التعلم الآلي
-- **Pandas / NumPy** — معالجة البيانات
-- **Wireshark / TShark** — جمع البيانات
+A structured body of cybersecurity learning and research documentation intended to collect practical exercises, technical notes, security analysis, and independently developed helper tools.
 
-### الأهداف
-- كشف هجمات DDoS في الوقت الفعلي
-- التعرف على البرمجيات الخبيثة بناءً على السلوك
-- توليد تنبيهات ذكية مع تقليل الإنذارات الكاذبة
+### Workstreams
 
----
+- Security research notes and vulnerability analysis.
+- Virtual lab write-ups and reproducible exercises.
+- Python-based helper tools.
+- Technical references and structured documentation.
 
-## ☁️ Cloud-Native SIEM Dashboard
-
-**الحالة:** ⚪ Planned | **التخصص:** Cloud Security & SIEM
-
-### الوصف
-لوحة تحكم SIEM سحابية لجمع وتحليل وعرض سجلات الأمان من مصادر متعددة.
-
-### التقنيات المخططة
-- **Elastic Stack (ELK)** — جمع وتحليل السجلات
-- **Docker** — حاويات النشر
-- **AWS/Azure** — البنية التحتية السحابية
-- **Python** — سكربتات التكامل
-
-### الأهداف
-- جمع سجلات من خوادم، شبكات، وتطبيقات
-- إنشاء لوحات تحكم تفاعلية
-- إعداد قواعد تنبيه مخصصة
+Research notes and proposals should be distinguished from validated findings, public disclosures, or peer-reviewed publications.
 
 ---
 
-## 📱 Mobile App Security Assessment Framework
+# 06 · Virtual Pentesting Lab
 
-**الحالة:** ⚪ Planned | **التخصص:** Mobile Security
+**VMware · Kali Linux · Windows · Ubuntu · pfSense**
 
-### الوصف
-إطار عمل لتقييم أمن تطبيقات الجوال (iOS/Android). يجمع بين التحليل الثابت والديناميكي.
+<badge>In progress</badge>
 
-### التقنيات المخططة
-- **Flutter** — واجهة المستخدم
-- **Python** — محرك التحليل
-- **Frida** — التحليل الديناميكي
-- **MobSF** — التحليل الثابت
+An isolated virtual environment for learning authorized penetration testing and network security. The environment is intended to simulate multiple roles in a small enterprise network.
 
-### الأهداف
-- فحص التطبيقات بحثاً عن الثغرات الشائعة
-- تحليل تخزين البيانات والاتصالات
-- توليد تقارير مفصلة بالنتائج
+### Planned / documented environment
+
+| Virtual machine | Intended role |
+|---|---|
+| Kali Linux | Authorized assessment workstation |
+| Windows Server | Directory services and Windows server target |
+| Windows 10 | Client workstation |
+| Ubuntu Server | Linux server and web-service target |
+| pfSense | Firewall and network segmentation |
+
+### Learning scenarios
+
+- Web security testing mapped to OWASP Top 10.
+- Active Directory security concepts in an isolated lab.
+- Privilege and access-control review.
+- Network traffic capture and analysis.
+
+All offensive testing is restricted to the isolated lab or systems for which explicit authorization has been granted.
 
 ---
 
-> **📌 ملاحظة:** المشاريع المخططة (Planned) هي أهداف تعليمية أعمل على التحضير لها من خلال بناء المعرفة والمهارات اللازمة.
+# 07 · Network Security Projects
+
+**Network Defense · Monitoring · Cisco · Wireshark · pfSense**
+
+<badge>Practical learning</badge>
+
+A collection of networking and defensive-security exercises covering secure network configuration, visibility, traffic analysis, and firewall policy.
+
+### Workstreams
+
+**Cisco network configuration**
+- VLANs and trunking.
+- Access Control Lists (ACLs).
+- VPN concepts and IPsec configuration exercises.
+
+**Network traffic analysis**
+- Capture and inspect traffic with Wireshark.
+- Identify unusual patterns and suspicious communications.
+- Explore network detection rules and Snort concepts.
+
+**Firewall configuration**
+- pfSense firewall policy.
+- NAT and controlled port forwarding.
+- Segmentation and least-privilege network rules.
+
+---
+
+# 08 · AI-Powered Threat Detection System
+
+<badge>Planned concept</badge>
+
+A proposed machine-learning project exploring anomaly detection and security-event classification from network or host telemetry.
+
+### Proposed stack
+
+Python · Scikit-learn / TensorFlow · Pandas · NumPy · Wireshark / TShark
+
+### Research questions
+
+- Which features are useful for identifying anomalous network behavior?
+- How can detection quality be measured against false-positive rates?
+- How should model output be explained to a security analyst?
+- How can experiments be reproduced with documented datasets?
+
+This is a planned concept, not a completed detection product.
+
+---
+
+# 09 · Cloud-Native SIEM Dashboard
+
+<badge>Planned concept</badge>
+
+A proposed security monitoring dashboard for collecting, searching, and visualizing security events from multiple sources.
+
+### Proposed technologies
+
+Elastic Stack · Docker · AWS / Azure · Python
+
+### Proposed outcomes
+
+- Centralized event collection.
+- Searchable security records.
+- Analyst-oriented dashboards.
+- Documented alert rules and test events.
+
+This project remains a future learning and engineering target.
+
+---
+
+# 10 · Mobile App Security Assessment Framework
+
+<badge>Planned concept</badge>
+
+A proposed framework for organizing authorized static and dynamic security assessments of Android and iOS applications.
+
+### Proposed technologies
+
+Python · MobSF · Frida · Flutter (for a possible interface)
+
+### Proposed assessment areas
+
+- Insecure local data storage.
+- Network communication and TLS configuration.
+- Permission and component exposure.
+- Static findings and dynamic behavior.
+- Reproducible reporting and remediation guidance.
+
+This is a planned framework, not a released assessment tool.
+
+---
+
+## Engineering Evidence Standard
+
+To keep this portfolio credible, each project should grow through a consistent evidence set:
+
+1. **Real product evidence:** screenshots or a short recording from the actual running application.
+2. **Architecture:** a diagram that matches the implemented design.
+3. **Reproducibility:** setup steps, environment, dependencies, and test instructions.
+4. **Validation:** test cases, observed outputs, limitations, and known issues.
+5. **Security and privacy:** authorization boundaries, data handling, and disclosure notes.
+6. **Release record:** version, change log, and source repository or demo link.
+
+> **Portfolio principle:** clearly distinguish what is implemented, what has been tested, what is a design proposal, and what remains planned.
+
+---
+
+<div align="center">
+
+**BUILDING SYSTEMS. SECURING THE FUTURE.**
+
+<sub>Arfat Alkamali · Cybersecurity & Networks · Independent Engineering</sub>
+
+</div>

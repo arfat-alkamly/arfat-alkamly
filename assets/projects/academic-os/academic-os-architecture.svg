@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">Academic OS — Offline-first academic workspace architecture</title>
+<desc id="desc">Conceptual architecture illustration of a local academic assistant, showing schedule, tasks, grades, course files, reminders, assistant, and private local storage. Not a live application screenshot.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071525"/><stop offset="1" stop-color="#101e31"/></linearGradient>
+<linearGradient id="panel" x2="0" y2="1"><stop stop-color="#172d43"/><stop offset="1" stop-color="#0d1b2b"/></linearGradient>
+<linearGradient id="cyan"><stop stop-color="#32d4e7"/><stop offset="1" stop-color="#4388c8"/></linearGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#6d9ab4" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1440" height="900" fill="url(#bg)"/><rect width="1440" height="900" fill="url(#grid)"/>
+<text x="90" y="90" fill="#dff6fb" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="3">ACADEMIC OS</text>
+<text x="90" y="128" fill="#76b9cc" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">OFFLINE-FIRST STUDENT WORKSPACE · ARCHITECTURE VIEW</text>
+<rect x="90" y="180" width="1260" height="610" rx="26" fill="#081421" stroke="#2c718b" stroke-opacity=".8" stroke-width="2"/>
+<rect x="120" y="210" width="1200" height="74" rx="14" fill="url(#panel)" stroke="#326c82"/>
+<circle cx="158" cy="247" r="10" fill="#39d4e5"/><text x="190" y="255" fill="#e3f4f7" font-family="Arial,sans-serif" font-size="22" font-weight="700">PERSONAL ACADEMIC COMMAND CENTER</text>
+<text x="1260" y="254" text-anchor="end" fill="#7dd6dc" font-family="Arial,sans-serif" font-size="15">LOCAL-FIRST</text>
+<g fill="url(#panel)" stroke="#34768c" stroke-width="2">
+<rect x="130" y="330" width="335" height="145" rx="16"/><rect x="552" y="330" width="335" height="145" rx="16"/><rect x="975" y="330" width="335" height="145" rx="16"/>
+<rect x="130" y="510" width="335" height="145" rx="16"/><rect x="552" y="510" width="335" height="145" rx="16"/><rect x="975" y="510" width="335" height="145" rx="16"/>
+</g>
+<g fill="#d9f1f4" font-family="Arial,sans-serif" font-size="23" font-weight="700">
+<text x="165" y="380">STUDY SCHEDULE</text><text x="587" y="380">TASKS &amp; GOALS</text><text x="1010" y="380">GRADES &amp; GPA</text>
+<text x="165" y="560">COURSE LIBRARY</text><text x="587" y="560">REMINDERS</text><text x="1010" y="560">AI STUDY ASSISTANT</text>
+</g>
+<g fill="#86afbd" font-family="Arial,sans-serif" font-size="15">
+<text x="165" y="416">Daily and weekly academic planning</text><text x="587" y="416">Assignments, projects and deadlines</text><text x="1010" y="416">Grade tracking and target calculations</text>
+<text x="165" y="596">Lectures, notes and learning materials</text><text x="587" y="596">Timely study and class notifications</text><text x="1010" y="596">Contextual help and study guidance</text>
+</g>
+<g fill="none" stroke="url(#cyan)" stroke-width="3" opacity=".9"><path d="M297 475V490H720V510M720 475V510M1142 475V490H720M297 655V690H720M720 655V690M1142 655V690H720"/></g>
+<rect x="300" y="700" width="840" height="58" rx="14" fill="#0b2938" stroke="#36c8d8" stroke-width="2"/>
+<text x="720" y="737" text-anchor="middle" fill="#d8f7fa" font-family="Arial,sans-serif" font-size="20" font-weight="700">PRIVATE LOCAL STORAGE · USER-CONTROLLED DATA</text>
+<text x="90" y="840" fill="#7d9ba9" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">CONCEPTUAL ARCHITECTURE ILLUSTRATION · NOT A LIVE APP SCREENSHOT</text>
+</svg>
