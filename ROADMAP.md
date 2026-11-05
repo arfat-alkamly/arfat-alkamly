@@ -214,28 +214,26 @@
 | 5 | Secure Software & DevSecOps | فحوصات آلية للكود والاعتماديات ضمن CI |
 | 6 | Cloud & AI Security | نموذج تهديد وتجربة تقييم محددة النطاق |
 
-# 🎓 Certification Roadmap
+## 🎓 Certification Roadmap
 
-### 2026 Targets
-| الشهادة | المستوى | الربع المستهدف |
-|:---|:---:|:---:|
-| **CompTIA Security+** | مبتدئ-متوسط | Q1 |
-| **CCNA** | متوسط | Q2 |
-| **OSCP** | متقدم | Q3-Q4 |
-| **AWS Cloud Practitioner** | مبتدئ | Q3 |
+> الشهادات التالية أهداف مستقبلية وليست اعتمادات حصلت عليها. لا يُحدد موعد للتقديم قبل استكمال المتطلبات العملية والتحقق من شروط الأهلية.
 
-### 2027+ Targets
-| الشهادة | المستوى | التخصص |
-|:---|:---:|:---|
-| **CISSP** | خبير | Security Management |
-| **GREM** | متقدم | Reverse Engineering |
-| **GCFA** | متقدم | Digital Forensics |
-| **CKS** | متقدم | Cloud Security |
-| **CISM** | خبير | GRC |
+### Near-term targets
+| Certification | Focus |
+|---|---|
+| **CCNA** | Networking, routing, switching, and network fundamentals |
+| **CompTIA Security+** | Broad security foundations, threats, and risk concepts |
+| **Blue Team Level 1 (BTL1)** | Defensive monitoring and incident-response practice |
 
----
+### Longer-term specialization
+| Certification | Focus |
+|---|---|
+| **OSCP** | Authorized penetration testing |
+| **GCFA / GCIH** | Digital forensics and incident handling |
+| **CKS** | Kubernetes security |
+| **CISSP / CISM** | Later-career security leadership and governance, subject to experience requirements |
 
-## 📖 Recommended Reading List
+# 📖 Recommended Reading List
 
 ### 🔐 Cybersecurity
 - [x] *The Web Application Hacker's Handbook* — Dafydd Stuttard, Marcus Pinto
