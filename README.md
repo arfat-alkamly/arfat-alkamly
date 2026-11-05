@@ -44,22 +44,75 @@
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏅 Verified Credentials & Professional Development
 
 <p align="center">
-  <a href="https://lnkd.in/dRCcTwf5">
-    <img src="https://img.shields.io/badge/Cisco-Intro_to_Artificial_Intelligence-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/CREDLY-PUBLIC_CREDENTIALS-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Open public Credly profile"/>
   </a>
-  <a href="https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url">
-    <img src="https://img.shields.io/badge/Cisco_IT_Customer_Support_Basics-Verified-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CISCO-NETWORKING_%26_CYBERSECURITY-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning credentials"/>
+  <img src="https://img.shields.io/badge/STATUS-ISSUED_CREDENTIALS-16A34A?style=for-the-badge" alt="Issued credentials"/>
+</p>
+
+<p align="center">
+  <b>Public credential record · Cisco Networking Academy · Credly</b><br/>
+  <sub>Credential names and issue dates are presented as recorded in my learning profile. Use the Credly link above to inspect the public badges and their issuer verification details.</sub>
+</p>
+
+### Cisco Credentials & Digital Badges
+
+| # | Credential / Badge | Issuer | Issued |
+|:--:|:---|:---|:---:|
+| 01 | **Cybersecurity Defense Analyst Career Path** | Cisco Networking Academy | 29 Jul 2026 |
+| 02 | **Network Defense** | Cisco Networking Academy | 27 Jul 2026 |
+| 03 | **Networking Basics** | Cisco Networking Academy | 27 Jul 2026 |
+| 04 | **Python Essentials 2** | Cisco Networking Academy | 27 Jul 2026 |
+| 05 | **Python Essentials 1** | Cisco Networking Academy | 25 Jul 2026 |
+| 06 | **Introduction to Modern AI** | Cisco Networking Academy | 23 Jul 2026 |
+| 07 | **Endpoint Security** | Cisco Networking Academy | 03 Jun 2026 |
+| 08 | **Create Digital Content, Communicate and Collaborate Online** | Cisco Networking Academy | 27 May 2026 |
+| 09 | **Introduction to Cybersecurity** | Cisco Networking Academy | 18 May 2026 |
+
+<p align="center">
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Cybersecurity_Defense_Analyst_Career_Path-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cybersecurity Defense Analyst Career Path"/>
   </a>
-  <a href="https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url">
-    <img src="https://img.shields.io/badge/Cisco_Learn_A_Thon_2026-Participant-blue?style=for-the-badge"/>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Network_Defense-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Network Defense"/>
+  </a>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Networking_Basics-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Networking Basics"/>
+  </a>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Python_Essentials_2-Cisco-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Essentials 2"/>
+  </a>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Python_Essentials_1-Cisco-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Essentials 1"/>
+  </a>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Introduction_to_Modern_AI-Cisco-7C3AED?style=flat-square&logo=artificialintelligence&logoColor=white" alt="Introduction to Modern AI"/>
   </a>
   <a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url">
-    <img src="https://img.shields.io/badge/Cisco-Endpoint_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Endpoint_Security-Verify_on_Credly-16A34A?style=flat-square&logo=credly&logoColor=white" alt="Endpoint Security — public badge"/>
+  </a>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Digital_Content_%26_Collaboration-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Create Digital Content, Communicate and Collaborate Online"/>
+  </a>
+  <a href="https://www.credly.com/users/arfat-alkamly">
+    <img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Introduction to Cybersecurity"/>
   </a>
 </p>
+
+### Additional Achievements
+
+| Achievement | Verification / Reference |
+|:---|:---|
+| **Cisco IT Customer Support Basics** | [Public Credly badge](https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url) |
+| **Cisco Learn-A-Thon 2026 — Participant** | [Public Credly badge](https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url) |
+| **Introduction to Artificial Intelligence** | [Cisco learning credential](https://lnkd.in/dRCcTwf5) |
+
+> **Credential integrity:** Digital badges and course-completion credentials are listed as issued learning achievements, not professional licenses or degree qualifications. Individual badge verification is available through the linked Credly record where a public badge URL exists. The full public profile is the central reference for the credential collection.
+
 
 ---
 
