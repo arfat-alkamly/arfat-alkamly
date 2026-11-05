@@ -1,43 +1,30 @@
-# Credentials & Digital Badges
+# Original Certificates & Verified Digital Credentials
 
-> A curated record of learning credentials and digital badges. Credential names and issue dates below reflect the information supplied for this profile. Where an individual public badge URL is available, it is linked directly; otherwise, use the public Credly profile to open the issuer record. The square images are **profile-designed visual tiles**, not scans or substitutes for issuer-issued badge artwork.
+This register documents nine learning credentials. The PNG files in `assets/certificates/` are previews copied from the original certificate documents already stored in the portfolio repository. They are not recreated badge artwork. Each verification link opens the corresponding public Credly record.
 
-## Public verification
-
-- [Credly public profile](https://www.credly.com/users/arfat-alkamly)
-- [GitHub profile](https://github.com/arfat-alkamly)
-
-## Cisco Networking Academy — Digital Badges
+## Cisco Networking Academy credentials
 
 <table>
-<tr>
-<td align="center" width="33%"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/cybersecurity-defense-analyst.svg" width="180" alt="Cybersecurity Defense Analyst Career Path credential tile"/></a><br/><b>Cybersecurity Defense Analyst Career Path</b><br/>29 Jul 2026</td>
-<td align="center" width="33%"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/network-defense.svg" width="180" alt="Network Defense credential tile"/></a><br/><b>Network Defense</b><br/>27 Jul 2026</td>
-<td align="center" width="33%"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/networking-basics.svg" width="180" alt="Networking Basics credential tile"/></a><br/><b>Networking Basics</b><br/>27 Jul 2026</td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-2.svg" width="180" alt="Python Essentials 2 credential tile"/></a><br/><b>Python Essentials 2</b><br/>27 Jul 2026</td>
-<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-1.svg" width="180" alt="Python Essentials 1 credential tile"/></a><br/><b>Python Essentials 1</b><br/>25 Jul 2026</td>
-<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-modern-ai.svg" width="180" alt="Introduction to Modern AI credential tile"/></a><br/><b>Introduction to Modern AI</b><br/>23 Jul 2026</td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url"><img src="assets/credentials/endpoint-security.svg" width="180" alt="Endpoint Security credential tile"/></a><br/><b>Endpoint Security</b><br/>03 Jun 2026 · <a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url">Verify badge</a></td>
-<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/digital-content-collaboration.svg" width="180" alt="Digital Content and Collaboration credential tile"/></a><br/><b>Create Digital Content, Communicate and Collaborate Online</b><br/>27 May 2026</td>
-<td align="center"><a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-cybersecurity.svg" width="180" alt="Introduction to Cybersecurity credential tile"/></a><br/><b>Introduction to Cybersecurity</b><br/>18 May 2026</td>
-</tr>
+<tr><th align="center">Original certificate</th><th align="left">Credential details</th></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/23bda189-2470-4ce0-8065-ee904979ba21/public_url"><img src="assets/certificates/cybersecurity-defense-analyst.png" width="300" alt="Cybersecurity Defense Analyst Career Path — original certificate preview"/></a></td><td><b>Cybersecurity Defense Analyst Career Path</b><br/>Cisco · Splunk<br/>Issued: 29 July 2026<br/>Credential ID: <code>23bda189-2470-4ce0-8065-ee904979ba21</code><br/><br/><a href="https://www.credly.com/badges/23bda189-2470-4ce0-8065-ee904979ba21/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/e16ca722-84d2-4da2-ad1f-46e972453890/public_url"><img src="assets/certificates/network-defense.png" width="300" alt="Network Defense — original certificate preview"/></a></td><td><b>Network Defense</b><br/>Cisco<br/>Issued: 27 July 2026<br/>Credential ID: <code>e16ca722-84d2-4da2-ad1f-46e972453890</code><br/><br/><a href="https://www.credly.com/badges/e16ca722-84d2-4da2-ad1f-46e972453890/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/2f9902ec-e035-4b56-bf1b-42c66f05ed75/public_url"><img src="assets/certificates/networking-basics.png" width="300" alt="Networking Basics — original certificate preview"/></a></td><td><b>Networking Basics</b><br/>Cisco<br/>Issued: 27 July 2026<br/>Credential ID: <code>2f9902ec-e035-4b56-bf1b-42c66f05ed75</code><br/><br/><a href="https://www.credly.com/badges/2f9902ec-e035-4b56-bf1b-42c66f05ed75/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/de9c51d6-2eb6-4f7e-833a-31670170e278/public_url"><img src="assets/certificates/python-essentials-2.png" width="300" alt="Python Essentials 2 — original certificate preview"/></a></td><td><b>Python Essentials 2</b><br/>Cisco · OpenEDG<br/>Issued: 27 July 2026<br/>Credential ID: <code>de9c51d6-2eb6-4f7e-833a-31670170e278</code><br/><br/><a href="https://www.credly.com/badges/de9c51d6-2eb6-4f7e-833a-31670170e278/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/43943e68-05c5-40ea-93d1-d2a26e07ced0/public_url"><img src="assets/certificates/python-essentials-1.png" width="300" alt="Python Essentials 1 — original certificate preview"/></a></td><td><b>Python Essentials 1</b><br/>Cisco · OpenEDG<br/>Issued: 25 July 2026<br/>Credential ID: <code>43943e68-05c5-40ea-93d1-d2a26e07ced0</code><br/><br/><a href="https://www.credly.com/badges/43943e68-05c5-40ea-93d1-d2a26e07ced0/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/4e822fcc-656e-4891-bc51-666ca95cd6e8/public_url"><img src="assets/certificates/introduction-to-modern-ai.png" width="300" alt="Introduction to Modern AI — original certificate preview"/></a></td><td><b>Introduction to Modern AI</b><br/>Cisco<br/>Issued: 23 July 2026<br/>Credential ID: <code>4e822fcc-656e-4891-bc51-666ca95cd6e8</code><br/><br/><a href="https://www.credly.com/badges/4e822fcc-656e-4891-bc51-666ca95cd6e8/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url"><img src="assets/certificates/endpoint-security.png" width="300" alt="Endpoint Security — original certificate preview"/></a></td><td><b>Endpoint Security</b><br/>Cisco<br/>Issued: 3 June 2026<br/>Credential ID: <code>f0520c01-63aa-4440-9df4-69c7303d8762</code><br/><br/><a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url"><img src="assets/certificates/digital-content-collaboration.png" width="300" alt="Create Digital Content, Communicate and Collaborate Online — original certificate preview"/></a></td><td><b>Create Digital Content, Communicate and Collaborate Online</b><br/>Cisco · OpenEDG<br/>Issued: 27 May 2026<br/>Credential ID: <code>a370a36f-7ce1-4531-b44b-b909e56ee52d</code><br/><br/><a href="https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url">Verify on Credly ↗</a></td></tr>
+<tr><td align="center" width="38%"><a href="https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url"><img src="assets/certificates/introduction-to-cybersecurity.png" width="300" alt="Introduction to Cybersecurity — original certificate preview"/></a></td><td><b>Introduction to Cybersecurity</b><br/>Cisco<br/>Issued: 18 May 2026<br/>Credential ID: <code>dd68b74c-65f9-468f-9a51-3bb78adad239</code><br/><br/><a href="https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url">Verify on Credly ↗</a></td></tr>
 </table>
 
-## Additional achievements
+## Public profiles
 
-| Achievement | Public record |
-|---|---|
-| Cisco IT Customer Support Basics | [Credly badge](https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url) |
-| Cisco Learn-A-Thon 2026 — Participant | [Credly badge](https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url) |
-| Introduction to Artificial Intelligence | [Learning credential](https://lnkd.in/dRCcTwf5) |
+- [Credly — public credentials](https://www.credly.com/users/arfat-alkamly)
+- [GitHub — source repository](https://github.com/arfat-alkamly)
 
-## Credential presentation policy
+## Record integrity
 
-- A course-completion badge is described as a **digital learning credential**, not as a professional license or degree.
-- No certification number, expiration date, score, or professional status is inferred when it is not present in the public record.
-- New certificates can be added when their issuer, title, issue date, and public verification link or certificate image are available.
-- Official badge verification remains on the issuer/Credly page; the square tiles above are custom visual index cards for this repository.
+- Course-completion badges are described as **learning credentials**, not professional licenses, degrees, or employment certifications.
+- Issue dates and credential identifiers are included as recorded in the existing credential register.
+- No expiration date, score, or professional status is inferred when it is not provided.
+- Additional credentials should be added only when the original document or issuer record can be matched to its public verification link.
