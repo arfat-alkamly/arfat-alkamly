@@ -34,7 +34,7 @@ This document separates **independently developed projects**, **practical learni
 
 # 01 · AEGIS-TITAN v9.0-SOVEREIGN
 
-<badge-placeholder></badge-placeholder>
+
 
 **Defensive Cybersecurity System**  
 <sub>Independent development · Python · Kali Linux · SOC-oriented workflows</sub>
@@ -147,7 +147,7 @@ This is a personal application project. The feature list above describes the pro
 
 **Java · Object-Oriented Programming · Academic Project**
 
-<badge>Completed academic project</badge>
+**Status:** Completed academic project
 
 A command-line student-record application developed as an object-oriented programming project. It organizes student and course records and supports grade-related operations.
 
@@ -170,7 +170,7 @@ Java · Encapsulation · Inheritance · Polymorphism · Abstraction · File I/O
 
 **HTML5 · CSS3 · JavaScript · Web Development**
 
-<badge>Completed academic project</badge>
+**Status:** Completed academic project
 
 A web platform for presenting tourism destinations and related information, with a responsive browsing experience. The project was documented as published through GitHub Pages.
 
@@ -188,7 +188,7 @@ A web platform for presenting tourism destinations and related information, with
 
 **Security Research · Labs · Tools · Technical Documentation**
 
-<badge>In progress</badge>
+**Status:** In progress
 
 A structured body of cybersecurity learning and research documentation intended to collect practical exercises, technical notes, security analysis, and independently developed helper tools.
 
@@ -207,7 +207,7 @@ Research notes and proposals should be distinguished from validated findings, pu
 
 **VMware · Kali Linux · Windows · Ubuntu · pfSense**
 
-<badge>In progress</badge>
+**Status:** In progress
 
 An isolated virtual environment for learning authorized penetration testing and network security. The environment is intended to simulate multiple roles in a small enterprise network.
 
@@ -236,7 +236,7 @@ All offensive testing is restricted to the isolated lab or systems for which exp
 
 **Network Defense · Monitoring · Cisco · Wireshark · pfSense**
 
-<badge>Practical learning</badge>
+**Status:** Practical learning
 
 A collection of networking and defensive-security exercises covering secure network configuration, visibility, traffic analysis, and firewall policy.
 
@@ -261,7 +261,7 @@ A collection of networking and defensive-security exercises covering secure netw
 
 # 08 · AI-Powered Threat Detection System
 
-<badge>Planned concept</badge>
+**Status:** Planned concept
 
 A proposed machine-learning project exploring anomaly detection and security-event classification from network or host telemetry.
 
@@ -282,7 +282,7 @@ This is a planned concept, not a completed detection product.
 
 # 09 · Cloud-Native SIEM Dashboard
 
-<badge>Planned concept</badge>
+**Status:** Planned concept
 
 A proposed security monitoring dashboard for collecting, searching, and visualizing security events from multiple sources.
 
@@ -303,7 +303,7 @@ This project remains a future learning and engineering target.
 
 # 10 · Mobile App Security Assessment Framework
 
-<badge>Planned concept</badge>
+**Status:** Planned concept
 
 A proposed framework for organizing authorized static and dynamic security assessments of Android and iOS applications.
 
