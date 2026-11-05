@@ -1,623 +1,185 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:00B4D8,100:001F3F&height=220&section=header&text=Cybersecurity%20Engineer%20in%20Progress&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:061525,45:0B3B59,100:00B4D8&height=210&section=header&text=ARFAT%20ALKAMALI&fontSize=48&fontColor=F4FAFF&fontAlignY=38&desc=BUILDING%20SYSTEMS.%20SECURING%20THE%20FUTURE.&descSize=14&descAlignY=61&animation=fadeIn" width="100%" alt="Arfat Alkamali — Building Systems. Securing the Future."/>
+
+# Arfat Alkamali
+### Cybersecurity & Networks · Software Development · Security Research
+
+[![GitHub](https://img.shields.io/badge/GitHub-arfat--alkamly-111827?style=for-the-badge&logo=github)](https://github.com/arfat-alkamly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arfat-alkamly-399676409)
+[![Credly](https://img.shields.io/badge/Credly-Credentials-F36B21?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/arfat-alkamly)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00A6C8?style=for-the-badge&logo=vercel&logoColor=white)](https://arfat-phi.vercel.app/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1348--5146-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1348-5146)
+
+<img src="https://komarev.com/ghpvc/?username=arfat-alkamly&label=PROFILE%20VIEWS&color=00A6C8&style=flat-square" alt="Profile views"/>
+
+</div>
+
+---
+
+## Professional Profile
+
+I am an undergraduate **Cybersecurity & Networks** student at **Al-Manar University College for Science & Technology**, building a practical engineering path across defensive security, network protection, secure software, and technical research.
+
+My work combines academic study with independent software and cybersecurity projects. I am especially interested in designing reliable systems, understanding vulnerabilities at code and infrastructure level, and turning security concepts into testable tools and documented workflows.
+
+**Professional direction:** Cybersecurity Engineering · Security Operations & Threat Detection · Secure Software Engineering · Applied Research
+
+> **Building Systems. Securing the Future.**
+
+## Focus Areas
+
+| Domain | Current focus |
+|---|---|
+| **Cybersecurity Engineering** | Defensive architecture, vulnerability analysis, security controls, and risk-aware engineering |
+| **Network Security** | Network fundamentals, traffic analysis, segmentation, monitoring, and Cisco technologies |
+| **Security Operations** | Threat detection concepts, SOC workflows, incident handling, and evidence-aware investigation |
+| **Secure Software** | Application development, source-code review, secure design, and database security |
+| **Applied Research** | Cybersecurity methods, threat analysis, software supply-chain risk, and AI-assisted defense |
+
+## Selected Engineering Work
+
+### AEGIS-TITAN — Defensive Cybersecurity Platform
+An independently developed defensive security project focused on connecting monitoring, threat analysis, detection, containment, deception, and incident-response workflows. The project is designed around defensive operations and evidence-aware handling rather than offensive retaliation.
+
+**Focus:** Security telemetry · Threat detection · Network monitoring · Incident response · Digital forensics · Deception technology · Source-code security analysis
+
+### Academic OS — Offline Academic Assistant
+A local-first academic productivity application concept combining schedules, tasks, study planning, academic files, grade tracking, and privacy-conscious data handling.
+
+**Focus:** Flutter/Dart · Local storage · Application architecture · User privacy · Productivity workflows
+
+### Additional Software & Security Projects
+The repository also documents academic software, web development, network-security exercises, virtual labs, and planned research prototypes.
+
+- [Project portfolio and technical notes](PROJECTS.md)
+- [Cybersecurity labs and practical exercises](LABS.md)
+- [Research interests and publications-in-progress](#research-interests)
+
+## Technical Skills
+
+The list below describes areas I work with or study. It is not a claim of expert-level mastery in every technology.
+
+### Programming & Software Development
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C sharp"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-<h1 align="center">⚡ Arafat Al-Kamly ⚡</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Network+Security+Specialist;Future+Security+Engineer;Penetration+Testing+Learner;Secure+Software+Developer;Building+A+Safer+Digital+Future;AI+%26+ML+Security+Enthusiast;Cloud+%26+DevSecOps+Advocate" />
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arfat-alkamly&label=PROFILE+VIEWS&color=00b4d8&style=for-the-badge"/>
+### Cybersecurity & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/Network_Security-0B7285?style=for-the-badge&logo=cisco&logoColor=white" alt="Network security"/>
+<img src="https://img.shields.io/badge/Threat_Detection-14532D?style=for-the-badge&logo=shield&logoColor=white" alt="Threat detection"/>
+<img src="https://img.shields.io/badge/DFIR-334155?style=for-the-badge&logo=linux&logoColor=white" alt="DFIR"/>
+<img src="https://img.shields.io/badge/Penetration_Testing-7F1D1D?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Penetration testing"/>
+<img src="https://img.shields.io/badge/Cryptography-312E81?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
----
-
-## 🛡️ Professional Identity
-
-> **Cybersecurity Student | Network Security Enthusiast | Future Security Engineer**
-
-أنا طالب متخصص في الأمن السيبراني وأمن الشبكات، أبني مساري نحو أن أصبح **Security Engineer** قادراً على:
-- 🔍 تحديد الثغرات وتقييم المخاطر في البنى التحتية الحديثة
-- 🛡️ تصميم وحماية الشبكات المؤسسية والسحابية
-- 💻 تطوير برمجيات آمنة ومقاومة للهجمات
-- 🤖 توظيف الذكاء الاصطناعي في الكشف عن التهديدات والاستجابة لها
-- 🧪 بناء مختبرات افتراضية لمحاكاة سيناريوهات الهجوم والدفاع
-
-أسعى باستمرار لتوسيع خبراتي في اختبار الاختراق، وأنظمة لينكس، وأمن تطبيقات الويب، وعمليات الأمن السيبراني، من خلال بناء مشاريع عملية وتطوير قدراتي التقنية بشكل مستمر.
-
----
-
-## 🎯 Current Mission
-
-| المجال | الحالة | التفاصيل |
-|:---|:---:|:---|
-| **🔐 Cybersecurity Core** | 🟢 نشط | بناء أسس قوية في اختبار الاختراق والشبكات |
-| **🌐 Network Security** | 🟢 نشط | تطبيق بروتوكولات Cisco والتوجيه المتقدم |
-| **🤖 AI Security Integration** | 🟡 قيد التقدم | دمج الذكاء الاصطناعي في أنظمة الكشف عن التهديدات |
-| **☁️ Cloud Security** | 🟡 قيد التقدم | تعلم AWS/Azure Security و DevSecOps |
-| **🐧 Linux Administration** | 🟢 نشط | إتقان Kali Linux وبيئات الخوادم |
-| **🧪 Security Labs** | 🟢 نشط | بناء مختبرات افتراضية باستخدام VMware |
-| **📚 Security Research** | 🟢 نشط | تحليل الثغرات وكتابة تقارير تقنية |
-| **🌍 Open Source** | 🟡 قيد التقدم | المساهمة في مشاريع الأمن المفتوحة المصدر |
-
----
-
-## 🏅 Verified Credentials & Professional Development
-
-<p align="center">
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/CREDLY-PUBLIC_CREDENTIALS-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Open public Credly profile"/>
-  </a>
-  <img src="https://img.shields.io/badge/CISCO-NETWORKING_%26_CYBERSECURITY-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning credentials"/>
-  <img src="https://img.shields.io/badge/STATUS-ISSUED_CREDENTIALS-16A34A?style=for-the-badge" alt="Issued credentials"/>
+### Development Tools & Data
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </p>
 
-<p align="center">
-  <b>Public credential record · Cisco Networking Academy · Credly</b><br/>
-  <sub>Credential names and issue dates are presented as recorded in my learning profile. Use the Credly link above to inspect the public badges and their issuer verification details.</sub>
-</p>
+## Credentials & Digital Badges
 
-### Cisco Credentials & Digital Badges
+A visual index of learning achievements, with verification routed to the public issuer/Credly record. The square graphics are custom profile tiles; they are not presented as original issuer artwork.
 
-| # | Credential / Badge | Issuer | Issued |
-|:--:|:---|:---|:---:|
-| 01 | **Cybersecurity Defense Analyst Career Path** | Cisco Networking Academy | 29 Jul 2026 |
-| 02 | **Network Defense** | Cisco Networking Academy | 27 Jul 2026 |
-| 03 | **Networking Basics** | Cisco Networking Academy | 27 Jul 2026 |
-| 04 | **Python Essentials 2** | Cisco Networking Academy | 27 Jul 2026 |
-| 05 | **Python Essentials 1** | Cisco Networking Academy | 25 Jul 2026 |
-| 06 | **Introduction to Modern AI** | Cisco Networking Academy | 23 Jul 2026 |
-| 07 | **Endpoint Security** | Cisco Networking Academy | 03 Jun 2026 |
-| 08 | **Create Digital Content, Communicate and Collaborate Online** | Cisco Networking Academy | 27 May 2026 |
-| 09 | **Introduction to Cybersecurity** | Cisco Networking Academy | 18 May 2026 |
+<div align="center">
 
-<p align="center">
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Cybersecurity_Defense_Analyst_Career_Path-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cybersecurity Defense Analyst Career Path"/>
-  </a>
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Network_Defense-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Network Defense"/>
-  </a>
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Networking_Basics-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Networking Basics"/>
-  </a>
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Python_Essentials_2-Cisco-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Essentials 2"/>
-  </a>
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Python_Essentials_1-Cisco-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Essentials 1"/>
-  </a>
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Introduction_to_Modern_AI-Cisco-7C3AED?style=flat-square&logo=artificialintelligence&logoColor=white" alt="Introduction to Modern AI"/>
-  </a>
-  <a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url">
-    <img src="https://img.shields.io/badge/Endpoint_Security-Verify_on_Credly-16A34A?style=flat-square&logo=credly&logoColor=white" alt="Endpoint Security — public badge"/>
-  </a>
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Digital_Content_%26_Collaboration-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Create Digital Content, Communicate and Collaborate Online"/>
-  </a>
-  <a href="https://www.credly.com/users/arfat-alkamly">
-    <img src="https://img.shields.io/badge/Introduction_to_Cybersecurity-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Introduction to Cybersecurity"/>
-  </a>
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/cybersecurity-defense-analyst.svg" width="160" alt="Cybersecurity Defense Analyst Career Path"/></a><br/><b>Cybersecurity Defense Analyst Career Path</b><br/>Cisco · 29 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/network-defense.svg" width="160" alt="Network Defense"/></a><br/><b>Network Defense</b><br/>Cisco · 27 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/networking-basics.svg" width="160" alt="Networking Basics"/></a><br/><b>Networking Basics</b><br/>Cisco · 27 Jul 2026 |
+| <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-2.svg" width="160" alt="Python Essentials 2"/></a><br/><b>Python Essentials 2</b><br/>Cisco · 27 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/python-essentials-1.svg" width="160" alt="Python Essentials 1"/></a><br/><b>Python Essentials 1</b><br/>Cisco · 25 Jul 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-modern-ai.svg" width="160" alt="Introduction to Modern AI"/></a><br/><b>Introduction to Modern AI</b><br/>Cisco · 23 Jul 2026 |
+| <a href="https://www.credly.com/badges/f0520c01-63aa-4440-9df4-69c7303d8762/public_url"><img src="assets/credentials/endpoint-security.svg" width="160" alt="Endpoint Security"/></a><br/><b>Endpoint Security</b><br/>Cisco · 03 Jun 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/digital-content-collaboration.svg" width="160" alt="Digital Content & Collaboration"/></a><br/><b>Digital Content & Collaboration</b><br/>Cisco · 27 May 2026 | <a href="https://www.credly.com/users/arfat-alkamly"><img src="assets/credentials/introduction-to-cybersecurity.svg" width="160" alt="Introduction to Cybersecurity"/></a><br/><b>Introduction to Cybersecurity</b><br/>Cisco · 18 May 2026 |
 
-### Additional Achievements
+</div>
 
-| Achievement | Verification / Reference |
-|:---|:---|
-| **Cisco IT Customer Support Basics** | [Public Credly badge](https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url) |
-| **Cisco Learn-A-Thon 2026 — Participant** | [Public Credly badge](https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url) |
-| **Introduction to Artificial Intelligence** | [Cisco learning credential](https://lnkd.in/dRCcTwf5) |
+**Additional records:** [Cisco IT Customer Support Basics](https://www.credly.com/badges/dd68b74c-65f9-468f-9a51-3bb78adad239/public_url) · [Cisco Learn-A-Thon 2026 — Participant](https://www.credly.com/badges/a370a36f-7ce1-4531-b44b-b909e56ee52d/public_url) · [Introduction to Artificial Intelligence](https://lnkd.in/dRCcTwf5)
 
-> **Credential integrity:** Digital badges and course-completion credentials are listed as issued learning achievements, not professional licenses or degree qualifications. Individual badge verification is available through the linked Credly record where a public badge URL exists. The full public profile is the central reference for the credential collection.
+**[Open the complete Credentials Gallery](CREDENTIALS.md)** · **[Verify on Credly](https://www.credly.com/users/arfat-alkamly)**
 
+## Education
 
----
+**B.Sc. in Cybersecurity & Networks**  
+Al-Manar University College for Science & Technology · Yemen  
+2024–2028 (expected program period) · Currently Level 3
 
-## 🎓 Academic Background
+Relevant academic areas include information security, networks, cryptography, programming, databases, software development, and AI for cybersecurity.
 
-**🎓 كلية المنار الجامعية للعلوم والتكنولوجيا** — [mus.edu.ye](https://mus.edu.ye)
-- 📍 محافظة حجة، اليمن
-- 🎓 تخصص: علوم الحاسوب والتكنولوجيا (مع التركيز على الأمن السيبراني والشبكات)
-- 📚 منهج أكاديمي متين في أسس الأمن السيبراني والشبكات وتكنولوجيا المعلومات
+## Leadership & Academic Contribution
 
-> **🧪 التعلم المستمر:** إلى جانب الدراسة الأكاديمية، أحرص على متابعة أحدث المستجدات في مجال الأمن السيبراني من خلال منصات مثل **TryHackMe** و **HackTheBox**، والمشاركة في مسابقات **CTF** لصقل مهارات الهجوم والدفاع.
+**Scientific Committee Lead — Cybersecurity & Information Technology, Level 3**  
+Al-Manar University College
 
----
+- Coordinate academic communication and lecture-material distribution between the two departments.
+- Organize course resources, references, assignment notices, and academic follow-up.
+- Support a structured student information channel and representative workflow.
 
-## 🛡️ Skills Architecture
+## Research Interests
 
-### 🔐 Cybersecurity Core Skills
+- Defensive security engineering and multi-layer threat detection.
+- Vulnerability analysis in open-source software and dependency ecosystems.
+- Digital forensics, evidence integrity, and incident-response workflows.
+- AI-assisted threat detection and behavioral analysis.
+- Cloud, API, and software supply-chain security.
+- Secure software development and privacy-aware telemetry.
 
-| المهارة | المستوى | التصنيف |
-|:---|:---:|:---:|
-| **Network Security** | 🟢 متقدم | Practical |
-| **Penetration Testing** | 🟢 متوسط | Practical |
-| **Vulnerability Assessment** | 🟢 متوسط | Practical |
-| **Web Application Security** | 🟢 متوسط | Practical |
-| **Security Operations (SecOps)** | 🟡 مبتدئ | Technical Knowledge |
-| **Incident Response** | 🟡 مبتدئ | Technical Knowledge |
-| **Digital Forensics** | 🟡 مبتدئ | Currently Learning |
-| **Threat Intelligence** | 🟡 مبتدئ | Currently Learning |
-| **Reverse Engineering** | 🟡 مبتدئ | Currently Learning |
-| **Malware Analysis** | 🟡 مبتدئ | Currently Learning |
-| **Governance, Risk & Compliance (GRC)** | 🟡 مبتدئ | Future Exploration |
-| **Blockchain & Web3 Security** | ⚪ مخطط | Future Exploration |
-| **IoT & OT Security** | ⚪ مخطط | Future Exploration |
+Research concepts and proposals are documented separately; they are not represented as published papers or completed experimental findings.
 
-### 🌐 Network Security & Engineering
+## Learning Roadmap
 
-| المجال | المهارات | التصنيف |
-|:---|:---|:---:|
-| **Routing & Switching** | Cisco IOS, BGP, OSPF, EIGRP, MPLS | Practical |
-| **Network Security** | Firewalls, ACLs, VPNs, IPSec, SSL/TLS | Practical |
-| **Protocol Analysis** | TCP/IP Stack, HTTP/2, HTTP/3, QUIC, DNS, DHCP | Technical Knowledge |
-| **Network Automation** | SDN, Ansible | Currently Learning |
-| **Load Balancing** | HAProxy, Nginx, F5 | Technical Knowledge |
-| **Wireless Security** | 802.11, WPA3, RADIUS, 802.1X | Currently Learning |
+My current development path prioritizes stronger foundations and practical evidence over collecting tools or listing every technology.
 
-### 💻 Programming Languages
+- **Core:** networking, Linux, Python, security fundamentals, and software engineering.
+- **Applied security:** web and API security, vulnerability analysis, traffic inspection, and defensive monitoring.
+- **Next specialization:** DFIR, threat hunting, cloud security, and secure development practices.
 
-#### 🟢 Practical Skills (لغات أعمل بها بشكل فعّال)
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8A00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</p>
+See the [detailed learning roadmap](ROADMAP.md) for study topics and planned milestones.
 
-#### 🟡 Currently Learning (لغات في طور التعلم المتقدم)
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-</p>
+## Repository Map
 
-#### ⚪ Future Exploration (لغات مخطط لها)
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=asm&logoColor=white" alt="Assembly"/>
-</p>
+| Resource | What you will find |
+|---|---|
+| [PROJECTS.md](PROJECTS.md) | Project descriptions, architecture notes, and development status |
+| [LABS.md](LABS.md) | Practical lab environments, scenarios, and write-up structure |
+| [CREDENTIALS.md](CREDENTIALS.md) | Visual credential gallery and public verification links |
+| [ROADMAP.md](ROADMAP.md) | Learning plan and future specialization targets |
+| [Portfolio Website](https://arfat-phi.vercel.app/) | Extended professional portfolio |
 
-> **📘 رؤيتي الأكاديمية:** المهندس الأمني الشامل يحتاج إلى إتقان لغات برمجة متعددة المستويات. أركز على اللغات عالية المستوى لتطوير التطبيقات والويب، واللغات منخفضة المستوى لفهم الأنظمة والهندسة العكسية، بالإضافة إلى لغات مختصة في الذكاء الاصطناعي وتحليل البيانات.
+## Connect
 
-### 🛠️ Frameworks, Libraries & AI Engines
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Ruby on Rails"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-> **⚙️ كيف أوظف هذه الأدوات:** أستخدم هذه الأطر لبناء تطبيقات آمنة، ونمذجة سلوكيات الهجمات باستخدام الذكاء الاصطناعي، وتطوير أدوات مساعدة في تحليل البرمجيات الخبيثة ونظم كشف التسلل.
+- **GitHub:** [github.com/arfat-alkamly](https://github.com/arfat-alkamly)
+- **LinkedIn:** [Professional profile](https://www.linkedin.com/in/arfat-alkamly-399676409)
+- **Credly:** [Public digital credentials](https://www.credly.com/users/arfat-alkamly)
+- **ORCID:** [0009-0008-1348-5146](https://orcid.org/0009-0008-1348-5146)
+- **Portfolio:** [arfat-phi.vercel.app](https://arfat-phi.vercel.app/)
 
 ---
 
-## 🔧 Security Arsenal
+<div align="center">
 
-### 🎯 Reconnaissance & Scanning
-| الأداة | الوظيفة |
-|:---|:---|
-| **Nmap** | Network Discovery & Port Scanning |
-| **Nikto** | Web Server Vulnerability Scanning |
-| **Recon-ng** | Open Source Intelligence (OSINT) Framework |
-| **Aircrack-ng** | Wireless Network Security Assessment |
+**BUILDING SYSTEMS. SECURING THE FUTURE.**
 
-### 🌐 Web Application Security
-| الأداة | الوظيفة |
-|:---|:---|
-| **Burp Suite** | Web Application Security Testing Platform |
-| **OWASP ZAP** | Open Source Web App Vulnerability Scanner |
-| **SQLMap** | Automated SQL Injection & Database Takeover |
-| **BeEF** | Browser Exploitation Framework |
+<sub>Independent learning · Practical engineering · Responsible security research</sub>
 
-### 🔓 Exploitation & Post-Exploitation
-| الأداة | الوظيفة |
-|:---|:---|
-| **Metasploit** | Penetration Testing & Exploitation Framework |
-| **Cobalt Strike** | Adversary Simulation & Red Team Operations |
-| **Mimikatz** | Credential Dumping & Windows Security |
-| **Responder** | LLMNR, NBT-NS & MDNS Poisoning |
-| **CrackMapExec** | SMB/WinRM/LDAP Post-Exploitation |
-| **BloodHound** | Active Directory Attack Path Analysis |
-| **Impacket** | Python Network Protocol Toolkit |
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:00B4D8,55:0B3B59,100:061525&height=110&section=footer" width="100%" alt=""/>
 
-### 🔍 Traffic Analysis & Monitoring
-| الأداة | الوظيفة |
-|:---|:---|
-| **Wireshark** | Network Traffic Analysis & Packet Inspection |
-| **Snort** | Network Intrusion Detection & Prevention |
-| **Zeek** | Network Security Monitoring & Analysis |
-
-### 🔬 Reverse Engineering & Malware Analysis
-| الأداة | الوظيفة |
-|:---|:---|
-| **Ghidra** | NSA Software Reverse Engineering Suite |
-| **IDA Pro** | Interactive Disassembler & Debugger |
-| **x64dbg** | Open Source Windows Debugger |
-| **dnSpy** | .NET Assembly Debugger & Editor |
-| **Radare2** | Open Source Reverse Engineering Framework |
-| **YARA** | Malware Pattern Matching & Classification |
-| **Cuckoo Sandbox** | Automated Malware Analysis System |
-
-### 🛡️ Vulnerability Assessment
-| الأداة | الوظيفة |
-|:---|:---|
-| **Nessus** | Comprehensive Vulnerability Scanner |
-| **OpenVAS** | Open Source Vulnerability Assessment |
-
-### 🔐 Password Security & Cryptanalysis
-| الأداة | الوظيفة |
-|:---|:---|
-| **Hashcat** | Advanced Password Recovery & Cracking |
-| **John the Ripper** | Password Security Auditing Tool |
-
-### 📊 SIEM & Log Analysis
-| الأداة | الوظيفة |
-|:---|:---|
-| **Splunk** | Data Analytics & Security Intelligence |
-| **Elastic Stack (ELK)** | Log Management & Security Monitoring |
-
-### 🖥️ Platforms & Environments
-| الأداة | الوظيفة |
-|:---|:---|
-| **Kali Linux** | Penetration Testing Distribution |
-| **VMware** | Virtualization & Lab Environment |
-| **OWASP** | Web Security Standards & Resources |
-
-> **🧪 منهجي في التطبيق العملي:** أؤمن بأن الممارسة هي المفتاح. أقوم ببناء مختبرات افتراضية لمحاكاة سيناريوهات الاختراق الواقعية، مستخدماً هذه الترسانة المتكاملة من أدوات الهجوم والدفاع. هذا المزيج يمكنني من فهم عقلية المهاجم والمدافع معاً.
-
----
-
-## 🖥️ Operating Systems & Virtualization
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
-</p>
-
-> **🖥️ فهمي المعماري:** السيطرة على بيئات متعددة — من سطح المكتب والخوادم إلى المحمول والمحاكاة الافتراضية — هي سمة أساسية للمهندس الأمني المحترف. هذا الفهم يمكنني من تصميم حلول أمنية متوافقة مع جميع بيئات التشغيل.
-
----
-
-## ☁️ Cloud Platforms & Infrastructure as Code (IaC)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
-
-> **☁️ رؤيتي للتحول الرقمي الآمن:** إتقان السحابة وبنيتها ككود (IaC) جوهر الأمن السيبراني الحديث. هدفي هو دمج السياسات الأمنية مباشرة في دورة حياة التطوير (DevSecOps) لضمان تصحيح الثغرات قبل النشر.
-
----
-
-## 🗄️ Databases & Development Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</p>
-
-> **🗃️ تكامل البيانات والأدوات في مساري:** قواعد البيانات هي الهدف الأول للمهاجمين. أركز على فهم آليات حقن SQL وهجمات NoSQL، واستخدام أدوات الأتمتة لتأمين خطوط الإنتاج.
-
----
-
-## 🧠 Artificial Intelligence & Data Science for Security
-
-| المجال | التطبيق الأمني | الحالة |
-|:---|:---|:---:|
-| **Machine Learning** | Anomaly Detection & Behavioral Analysis | 🟢 نشط |
-| **Deep Learning (CNNs, RNNs, Transformers)** | Malware Classification & Pattern Recognition | 🟡 قيد التقدم |
-| **Natural Language Processing** | Threat Intelligence & Phishing Detection | 🟡 قيد التقدم |
-| **Computer Vision (OpenCV)** | Biometrics & Physical Security | 🟡 قيد التقدم |
-| **Reinforcement Learning** | Adaptive Defense & Autonomous Response | ⚪ مخطط |
-| **LLM Security** | Prompt Engineering, Jailbreak Defense, Data Leakage Prevention | 🟡 قيد التقدم |
-| **MLOps & Model Monitoring** | Drift Detection, Adversarial ML Defense | ⚪ مخطط |
-
-> **🤖 شغفي بالأمن المعرفي (Cognitive Security):** أرى في الذكاء الاصطناعي التخصص الأحدث والأعمق، حيث يتم توظيفه ليس فقط لتحليل التهديدات، بل لتوقعها. أدرس حالياً هجمات Adversarial ML وأعمل على فهم كيفية حماية النماذج اللغوية الكبيرة (LLMs).
-
----
-
-## 📐 Security Methodologies & Frameworks
-
-### 🏛️ Offensive Security Methodologies
-| المنهجية | الوصف |
-|:---|:---|
-| **OWASP Top 10** | معايير أمن تطبيقات الويب — أهم 10 مخاطر أمنية |
-| **OWASP WSTG** | دليل اختبار أمن تطبيقات الويب — منهجية شاملة |
-| **PTES** | معيار اختبار الاختراق الاحترافي |
-| **OSSTMM** | منهجية اختبار الأمن المفتوح المصدر |
-| **Cyber Kill Chain** | سلسلة مراحل الهجوم السيبراني (Recon → Weaponization → Delivery → Exploitation → Installation → C2 → Actions on Objectives) |
-
-### 🛡️ Defensive & Strategic Frameworks
-| المنهجية | الوصف |
-|:---|:---|
-| **MITRE ATT&CK®** | معرفة التكتيكات والتقنيات والإجرات (TTPs) للمهاجمين |
-| **NIST Cybersecurity Framework** | Identify → Protect → Detect → Respond → Recover |
-| **ISO 27001 / SOC 2** | معايير الامتثال والتدقيق الأمني |
-| **Zero Trust Architecture** | ZTNA, Micro-segmentation, SASE — "لا تثق مطلقاً، تحقق دائماً" |
-| **Cryptography Fundamentals** | Symmetric/AES, Asymmetric/RSA, Hashing/SHA |
-
-> **🏛️ مرتكزاتي النظرية:** هذه الأطر بمثابة الخريطة التي توجه مساري المهني. توفر لغة مشتركة بين المهندسين والإدارة، وتُعد منهجية لبناء برامج أمنية ناضجة.
-
----
-
-## 🧪 Practical Experience & Cybersecurity Labs
-
-### 🏗️ Lab Infrastructure
-- **Virtual Pentesting Labs** — بيئات افتراضية باستخدام VMware لمحاكاة سيناريوهات الهجوم والدفاع
-- **Kali Linux Environment** — بيئة العمل الأساسية لاختبار الاختراق
-- **VMware Security Labs** — بناء شبكات افتراضية معزولة لتجربة الثغرات بأمان
-- **Active Directory Lab** — بناء بيئات AD لاختبار الهجمات الجانبية والتصعيد
-
-### 🎯 Hands-On Practice
-- **Vulnerability Assessment** — إجراء تقييمات ثغرات على تطبيقات ويب وشبكات
-- **Network Traffic Analysis** — تحليل حزم الشبكة باستخدام Wireshark و Zeek
-- **Web Application Testing** — اختبار ثغرات OWASP Top 10 على تطبيقات متعمدة الضعف (DVWA, WebGoat)
-- **CTF Practice** — المشاركة المستمرة في تحديات TryHackMe, HackTheBox, PicoCTF, CyberTalents
-- **Security Research** — تحليل الثغرات العامة وكتابة تقارير تقنية
-
-> **📋 للاطلاع على تفاصيل المختبرات:** [LABS.md](./LABS.md)
-
----
-
-## 🚀 Featured Projects
-
-| المشروع | الوصف | التقنيات | الحالة |
-|:---|:---|:---|:---:|
-| **🎓 Academic OS** | نظام أكاديمي ذكي Offline-First لإدارة الحياة الدراسية بأمان | Flutter, TensorFlow Lite, SQLite, SQLCipher | 🟡 In Progress |
-| **🎓 Student Management System** | تطبيق Java كائني التوجيه لإدارة السجلات الأكاديمية | Java, OOP | ✅ Completed |
-| **🌍 Tourism Platform** | منصة ويب متكاملة منشورة عبر GitHub Pages | HTML, CSS, JavaScript | ✅ Completed |
-| **🔐 Cybersecurity Portfolio** | مجموعة أبحاث أمنية ومختبرات وأدوات وتوثيق تقني | Markdown, Various Tools | 🟡 In Progress |
-| **🧪 Virtual Pentesting Lab** | بيئة VMware لاختبار الاختراق الأخلاقي | VMware, Kali Linux, Windows Server | 🟡 In Progress |
-| **🛡️ Network Security Projects** | تطبيقات عملية في الدفاع عن الشبكات والمراقبة | Cisco IOS, Wireshark, Snort | 🟡 In Progress |
-| **🤖 AI-Powered Threat Detection** | نظام كشف تهديدات باستخدام التعلم الآلي *(مخطط)* | Python, TensorFlow, Scikit-Learn | ⚪ Planned |
-| **☁️ Cloud-Native SIEM Dashboard** | لوحة تحكم SIEM سحابية *(مخطط)* | Elastic Stack / Splunk, Docker | ⚪ Planned |
-| **📱 Mobile App Security Assessment Framework** | إطار تقييم أمن تطبيقات الجوال *(مخطط)* | Flutter, Python, Frida | ⚪ Planned |
-
-> **📋 للاطلاع على تفاصيل المشاريع الكاملة:** [PROJECTS.md](./PROJECTS.md)
-
----
-
-## 🎓 Academic OS: Flagship Project
-
-**الرؤية:** نظام أكاديمي ذكي يعمل محلياً على الهاتف (Offline-First)، صمم ليكون حلًا متكاملاً يساعد الطالب على إدارة حياته الدراسية بشكل آمن وذكي باستخدام الذكاء الاصطناعي، مع تركيز مطلق على **الخصوصية** و**الأداء** و**الاستقلال عن الإنترنت**.
-
-### 🏗️ البنية التقنية
-| المكون | التقنية المستخدمة |
-|:---|:---|
-| **الواجهة الأمامية** | Flutter, Material Design 3 (دعم الوضع الداكن/الفاتح) |
-| **إدارة التطبيق** | Clean Architecture, Riverpod |
-| **الذكاء الاصطناعي** | TensorFlow Lite, OCR محلي, تحليل البيانات والسلوك الدراسي |
-| **قاعدة البيانات** | SQLite, SQLCipher (تشفير AES-256) |
-
-### 🔐 منظومة الأمان
-- **قفل الهوية**: بصمة الإصبع، التعرف على الوجه، رمز PIN احتياطي
-- **التشفير الكامل**: تشفير قاعدة البيانات بالكامل والملفات الحساسة
-- **وضع التخفي**: واجهة وهمية عند إدخال رمز خاص لإخفاء البيانات الحقيقية
-- **حماية الخصوصية**: منع لقطات الشاشة، إخفاء المحتوى من شاشة التطبيقات الحديثة، قفل تلقائي
-
-### 🤖 محرك الذكاء الاصطناعي
-- **المجدول الذكي**: يقترح أفضل أوقات الدراسة بناءً على سلوك الطالب
-- **المرآة الرقمية**: تحلل أوقات النشاط والكسل، مستوى الالتزام، والمواد المهملة
-- **المستشار الأكاديمي الذكي**: ينشئ خطط دراسة تلقائية حسب الوقت المتاح وصعوبة المواد
-- **OCR الذكي**: يحول صور السبورة والواجبات إلى نصوص رقمية ومهام تلقائية
-
-### 📚 الإدارة الأكاديمية
-- إدارة المواد الدراسية، الدكاترة، القاعات، الساعات المعتمدة، الملفات
-- الجدول الدراسي (يومي، أسبوعي، شهري)
-- إدارة المهام: واجبات، مشاريع، اختبارات، مراجعات
-- الإشعارات الذكية: تذكير بالمحاضرات والاختبارات والمشاريع
-
-> **🚀 رؤيتي:** أؤمن بأن النجاح الأكاديمي يبدأ من تنظيم الوقت وإدارة المهام بذكاء. Academic OS يمثل تطبيقاً عملياً للمهارات البرمجية والأمنية التي أتعلمها.
->
-> **📋 للاطلاع على التفاصيل الكاملة:** [PROJECTS.md#academic-os](./PROJECTS.md#academic-os)
-
----
-
-## 📌 Endpoint Security & Advanced Defense Skills
-*(مكتسبة من شهادة Cisco Endpoint Security)*
-
-- **Endpoint Protection & Compliance Management**
-- **Malware Detection & Analysis** (Cisco AMP)
-- **Threat Response & Automated Remediation**
-- **Security Policy Enforcement & Zero-Trust Principles**
-- **Attack Surface Reduction & Zero-Day Protections**
-- **Integration with SIEM & Network Defense Layers**
-
----
-
-## 📚 Knowledge Library & Favorite References
-
-| المجال | المصدر / المرجع |
-|:---|:---|
-| **🔐 الأمن السيبراني** | *The Web Application Hacker\'s Handbook*, *Practical Malware Analysis* |
-| **🌐 الشبكات** | *Computer Networking: A Top-Down Approach* (Kurose & Ross), *TCP/IP Illustrated* |
-| **🤖 الذكاء الاصطناعي** | *Deep Learning* (Ian Goodfellow), *Hands-On Machine Learning* (Aurélien Géron) |
-| **☁️ السحابة والـ DevOps** | *Kubernetes in Action*, *The Phoenix Project* |
-| **🧠 الهندسة العكسية** | *Reverse Engineering for Beginners* (Dennis Yurichev) |
-| **📋 الأطر الاستراتيجية** | *MITRE ATT&CK® Evaluations*, *NIST SP 800-53* |
-
-> **📖 تكويني الأكاديمي:** أحرص على بناء معرفتي من خلال مزيج من الكتب الكلاسيكية في الشبكات والأمن، والمراجع الحديثة في الذكاء الاصطناعي. هذا التوازن بين النظرية العميقة والتطبيق العملي هو ما يشكل أساس رؤيتي الأكاديمية.
-
----
-
-## 🏅 Beyond Certifications (CTF & Open Source)
-
-| النشاط | التفاصيل |
-|:---|:---|
-| **⚔️ TryHackMe / HackTheBox** | مستمر في حل غرف الثغرات وتحليل سيناريوهات الاختراق |
-| **🏁 مسابقات CTF** | المشاركة في PicoCTF, CyberTalents لصقل مهارات الهجوم والدفاع |
-| **🌍 المصادر المفتوحة** | المساهمة في توثيق الأدوات ونشر الوعي التقني |
-| **📝 كتابة المحتوى التقني** | توثيق تجارب المخبرية (Labs Write-ups) لمشاركة المعرفة |
-
----
-
-## 📚 2026 Learning Roadmap
-
-### ✅ مكتمل
-- [x] Networking Fundamentals
-- [x] Linux Fundamentals
-- [x] Cisco Networking Academy
-- [x] Programming Foundations
-- [x] Endpoint Security (Cisco)
-
-### ⏳ قيد التقدم (2026)
-- [ ] Web Security (OWASP Top 10)
-- [ ] Penetration Testing (OSCP Path)
-- [ ] Security Operations (Blue Team)
-- [ ] Advanced Networking (CCNA/CCNP)
-- [ ] Cloud Security (AWS/Azure)
-- [ ] DevSecOps Pipelines (CI/CD Security)
-- [ ] AI/ML in Cybersecurity (SecAI)
-
-### 🎯 مستقبلي (2027+)
-- [ ] Cloud Security Advanced (AWS/Azure)
-- [ ] Digital Forensics & Incident Response (DFIR)
-- [ ] Malware Analysis & Reverse Engineering (x86/ARM)
-- [ ] Security Engineering & Architecture
-- [ ] Container Security (Kubernetes & Istio)
-- [ ] Red Teaming & Adversary Emulation
-- [ ] Threat Hunting & Intel Analysis
-- [ ] IoT & OT Security (Industrial Control Systems)
-- [ ] Blockchain & Smart Contract Security (Auditing)
-- [ ] GRC (Governance, Risk, Compliance) & ISO 27001 Lead Implementer
-
-> **📋 للاطلاع على خارطة التعلم التفصيلية:** [ROADMAP.md](./ROADMAP.md)
-
----
-
-## 🔬 Research Interests & Academic Vision
-
-- **🧪 أمن الذكاء الاصطناعي (AI Security):** دراسة الهجمات الخصومية (Adversarial Attacks) وتأمين نماذج التعلم العميق ضد التضليل
-- **🧬 التشفير ما بعد الكم (Post-Quantum Cryptography):** استكشاف الخوارزميات المقاومة للحواسيب الكمومية (مثل CRYSTALS-Kyber)
-- **🌐 أمن إنترنت الأشياء والبنية التحتية الحرجة (IoT & SCADA):** تحليل نقاط الضعف في البروتوكولات الصناعية (Modbus, DNP3)
-- **📊 تحليل الاستخبارات مفتوحة المصدر (OSINT):** تطوير أدوات لربط التهديدات السيبرانية بالبشر (Human Intelligence)
-
----
-
-## 📊 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arfat-alkamly&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arfat-alkamly&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arfat-alkamly&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arfat-alkamly&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arfat-alkamly&theme=tokyonight&utcOffset=3"/>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arfat-alkamly/arfat-alkamly/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arfat-alkamly/arfat-alkamly/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arfat-alkamly/arfat-alkamly/output/github-contribution-grid-snake.svg">
-</picture>
-
-*(لتفعيل حركة الثعبان، أضف GitHub Action الخاص بـ Platane/snk)*
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arfat-alkamly&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfat-alkamly&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arfat-alkamly&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/arfat-alkamly">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arfat-alkamly-399676409">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.facebook.com/rfatalkamly">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
-  <a href="https://www.instagram.com/dark.hacker_x">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://www.tiktok.com/@dark.hacker_x">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:001F3F,100:00B4D8&height=120&section=footer"/>
-</p>
-
-<p align="center"><b>⚡ "Security Is Not A Product, It Is A Process." ⚡</b></p>
+</div>
