@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=0:061525,45:0B3B59,100:00B4D8&height=210&section=header&text=ARFAT%20ALKAMALI&fontSize=48&fontColor=F4FAFF&fontAlignY=38&desc=BUILDING%20SYSTEMS.%20SECURING%20THE%20FUTURE.&descSize=14&descAlignY=61&animation=fadeIn" width="100%" alt="Arfat Alkamali — Building Systems. Securing the Future."/>
 
-# Arfat Alkamali
+# Arfat Alkamly
 ### Cybersecurity & Networks · Software Engineering · Security Research
 
 [![GitHub](https://img.shields.io/badge/GitHub-arfat--alkamly-111827?style=for-the-badge&logo=github)](https://github.com/arfat-alkamly)
